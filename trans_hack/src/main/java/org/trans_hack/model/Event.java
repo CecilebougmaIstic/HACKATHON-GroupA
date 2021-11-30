@@ -7,7 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
-public class Evenement {
+public class Event {
 
     /**
      * Declaration of parameters

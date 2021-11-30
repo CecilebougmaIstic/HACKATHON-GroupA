@@ -6,7 +6,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
-public abstract class Utilisateur {
+public abstract class User {
 
     /**
      * declaration of parameters
