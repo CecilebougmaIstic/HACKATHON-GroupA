@@ -1,12 +1,11 @@
 package org.trans_hack.model;
 
-import java.util.*;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
-public class Programmeur extends Utilisateur {
+public class programmer extends User {
     /* Declaration of parameters*/
 
     private  long id;

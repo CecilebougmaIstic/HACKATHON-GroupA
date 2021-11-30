@@ -8,7 +8,7 @@ import java.util.*;
 /**
  * 
  */
-public class Lieu {
+public class Place {
         //  Declaration of parameters
 
     private  long id;

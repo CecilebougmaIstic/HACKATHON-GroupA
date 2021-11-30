@@ -1,9 +1,7 @@
 package org.trans_hack.model;
 
-import java.util.*;
 
-
-public class Exploitant extends Utilisateur {
+public class Operator extends User {
     private long id;
     protected String Exploitant;
 

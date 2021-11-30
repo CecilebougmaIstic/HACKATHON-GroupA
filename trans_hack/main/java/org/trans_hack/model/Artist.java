@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * 
  */
-public class Artiste {
+public class Artist {
 
 /*Declaration of parameters*/
     private long id;
