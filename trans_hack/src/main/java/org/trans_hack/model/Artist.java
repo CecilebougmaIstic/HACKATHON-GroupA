@@ -9,12 +9,12 @@ public class Artist {
 
 /*Declaration of parameters*/
     private long id;
-    protected String nom;
-    protected  String prenom;
+    protected String FirstName;
+    protected  String lastName;
     protected  String concert;
-    protected List <String> listePays = new ArrayList<String>();
+    protected List <String> listeCountry = new ArrayList<String>();
     protected String   decription;
-    protected  List<String> listeVilles = new ArrayList<String>();
+    protected  List<String> listeTown = new ArrayList<String>();
     protected String spotify;
     protected long  deezer;
 
