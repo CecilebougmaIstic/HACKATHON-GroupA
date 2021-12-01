@@ -1,8 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {Artist} from "../model/artist";
-import {ActivatedRoute, Router} from "@angular/router";
 import {ArtistService} from "../service/artist-service";
-import {FormModule} from
 
 @Component({
   selector: 'app-creation-artist',
