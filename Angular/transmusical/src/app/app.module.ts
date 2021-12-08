@@ -5,20 +5,28 @@ import { AppComponent } from './app.component';
 import { FormsModule, ReactiveFormsModule } from "@angular/forms";
 import { HttpClientModule } from '@angular/common/http';
 
-import { ArtistService } from './service/artist-service'
-import { CreationArtistComponent } from './creation-artist/creation-artist.component';
-import { ListArtistComponent } from './list-artist/list-artist.component';
 import { MessageToMobileComponent } from './message-to-mobile/message-to-mobile.component';
 import { TestComponent } from './test/test.component';
+import { CreationEvenementComponent } from './creation-evenement/creation-evenement.component';
+import { InscriptionUtilisateurComponent } from './inscription-utilisateur/inscription-utilisateur.component';
+import { AccueilComponent } from './accueil/accueil.component';
+import { CreateConcertComponent } from './create-concert/create-concert.component';
+import { HistoricComponent } from './historic/historic.component';
+import { CurrentYearComponent } from './current-year/current-year.component';
+
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    CreationArtistComponent,
-    ListArtistComponent,
     MessageToMobileComponent,
     TestComponent,
+    CreationEvenementComponent,
+    InscriptionUtilisateurComponent,
+    AccueilComponent,
+    CreateConcertComponent,
+    HistoricComponent,
+    CurrentYearComponent,
   ],
   imports: [
     BrowserModule,
@@ -29,13 +37,12 @@ import { TestComponent } from './test/test.component';
   ],
   exports:[
     AppComponent,
-    CreationArtistComponent,
-    ListArtistComponent,
     MessageToMobileComponent,    
     TestComponent,
+
   ],
 
-  providers: [ArtistService],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

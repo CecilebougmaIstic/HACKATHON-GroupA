@@ -1,13 +1,15 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import {CreationArtistComponent} from './creation-artist/creation-artist.component'
-import {ListArtistComponent} from './list-artist/list-artist.component'
-import {TestComponent} from './test/test.component'
+import { AccueilComponent } from './accueil/accueil.component';
+import { HistoricComponent } from './historic/historic.component';
+import { CurrentYearComponent } from './current-year/current-year.component';
+
 
 const routes: Routes = [
-	{ path: 'creationArtist', component: CreationArtistComponent},
-	{ path: 'listArtist', component: ListArtistComponent},
-	{ path: 'test', component: TestComponent}
+	{ path: '', component: AccueilComponent},
+	{ path: 'accueil', component: AccueilComponent},
+	{ path: 'historic', component: HistoricComponent},
+	{ path: 'current-year', component: CurrentYearComponent}
 ];
 
 @NgModule({

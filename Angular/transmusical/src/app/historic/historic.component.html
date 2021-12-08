@@ -1,0 +1,23 @@
+<html>
+<header class="main-header" role="banner">
+  <img id="banner" src="assets/images/banniere.png" alt="Banner Image"/>
+</header>
+<body>
+  <button (click)="toMain()">accueil</button>
+  <button (click)="toCurrentYear()">cette année</button>
+  <button (click)="toHistoric()">historique</button>
+<table>
+	<thead>
+		<tr>
+		<th>édition</th>
+		<th>année</th>
+		</tr>
+	</thead>
+	<tr *ngFor="let transmusicale of transmusicales">
+		<td>{{transmusicale.edition}}</td>
+		<td>{{transmusicale.year}}</td>
+	</tr>
+</table>
+
+</body>
+</html>
