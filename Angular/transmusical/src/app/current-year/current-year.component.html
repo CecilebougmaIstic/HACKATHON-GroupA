@@ -1,0 +1,23 @@
+<html>
+<header class="main-header" role="banner">
+  <img id="banner" src="assets/images/banniere.png" alt="Banner Image"/>
+</header>
+<body>
+  <button (click)="toMain()">accueil</button>
+  <button (click)="toCurrentYear()">cette année</button>
+  <button (click)="toHistoric()">historique</button>
+<h2>42e édition des Trans Musicales</h2>
+<table>
+	<tr *ngFor="let concert of concerts">
+		<td>{{concert.fields.artist}}</td>
+		<td>{{concert.fields.country}}</td>
+		<td>{{concert.fields.city}}</td>
+		<td>{{concert.fields.room}}</td>
+		<td>{{concert.fields.firstdate}}</td>
+		<td>{{concert.date}}</td>
+		<td>{{concert.price}}€</td>
+	</tr>
+</table>
+
+</body>
+</html>
