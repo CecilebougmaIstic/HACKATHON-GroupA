@@ -14,24 +14,33 @@ export class CurrentYearComponent implements OnInit {
   concerts:Concert[];
   concertService:ConcertService;
 
-  constructor(private  r:Router,private cS:ConcertService) {
-	this.concertService = cS;	
+  constructor(public r:Router,public cS:ConcertService) {
+	this.router=r;
+	this.concertService=cS;
   }
 
   ngOnInit(): void {
-	this.concertService.findAll().subscribe(data => {
+/*	this.concertService.findAll().subscribe(data => {
       this.concerts = data;
     });
-
+*/
   }
   toMain(){
-	this.router.navigate(['accueil']);
+	this.router.navigate(['/accueil']);
   }
   toCurrentYear(){
 	this.ngOnInit();
   }
   toHistoric(){
-	this.router.navigate(['historic']);
+	this.router.navigate(['/historic']);
   }
+  toArtists(){
+	this.router.navigate(['/list-artists']);
+  }
+
+	add(){}
+	delete(){}
+	update(){}
+
 
 }

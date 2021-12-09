@@ -11,18 +11,23 @@
   <button class="onglet" (click)="toHistoric()">historique</button>
   <button class="onglet" (click)="toArtists()">artistes</button>
 </div>
-<table>
+<div class="contenu">
+<table class="tableau">
 	<thead>
 		<tr>
-		<th>édition</th>
-		<th>année</th>
+		<th class="header">Groupe</th>
+		<th class="header">Concert</th>
+		<th class="header">Date</th>
+		<th class="header">Edition</th>
 		</tr>
 	</thead>
-	<tr *ngFor="let transmusicale of transmusicales">
-		<td>{{transmusicale.edition}}</td>
-		<td>{{transmusicale.year}}</td>
+	<tr class="colonne" *ngFor="let artist of artists">
+		<td class="case">{{artist.nomGroupe}}</td>
+		<td class="case">{{artist.nom_spectacle_ou_soiree}}</td>
+		<td class="case">{{artist.dateConcert}}</td>
+		<td class="case">{{artist.edition}}</td>
 	</tr>
 </table>
-
+</div>
 </body>
 </html>

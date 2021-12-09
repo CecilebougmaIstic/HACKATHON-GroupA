@@ -15,9 +15,10 @@ export class HistoricComponent implements OnInit {
   transmusicales:Transmusicale[];
   transmusicaleService:TransmusicaleService;
 
-  constructor(private  r:Router,private tS:TransmusicaleService) { 
-	this.transmusicaleService=tS;	
-  }
+  constructor(public r:Router,public tS:TransmusicaleService) { 
+	this.router=r;
+	this.transmusicaleService=tS;
+	}
 
   ngOnInit(): void {
 	this.transmusicaleService.findAll().subscribe(data => {
@@ -25,13 +26,16 @@ export class HistoricComponent implements OnInit {
     });
   }
   toMain(){
-	this.router.navigate(['accueil']);
+	this.router.navigate(['/accueil']);
   }
   toCurrentYear(){
-	this.router.navigate(['current-year']);
+	this.router.navigate(['/current-year']);
   }
   toHistoric(){
 	this.ngOnInit();
+  }
+  toArtists(){
+	this.router.navigate(['/list-artists']);
   }
 
 }

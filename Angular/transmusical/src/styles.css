@@ -1,1 +1,71 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+	background-color:white;
+}
+
+.banner{
+	text-align:center;
+}
+.banner_image{
+	height:250px;
+	width:800px;
+	text-align:center;
+}
+
+.onglets{
+	margin-top:30px;
+	margin-bottom:30px;
+	text-align:center;
+}
+
+.onglet{
+	width:200px;
+	height:50px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:cyan;
+	color:blue;
+	font-size:25px;
+	border-radius:30px;
+}
+.ongletactif{
+	width:200px;
+	height:50px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color:red;
+	color:blue;
+	font-size:25px;
+	border-radius:30px;
+}
+
+.tableau{
+	margin: 0 auto;
+	text-align:center;
+	background-color:cyan;
+	border-style:solid;
+	border-radius:20px;
+}
+
+.row{
+	background-color:red;
+	color:green;
+}
+
+.colonne{
+	background-color:green;
+}
+
+.header{
+	color:blue;
+	width:230px;
+	height:40px;
+	font-size:20px;
+}
+
+.case{
+	background-color:orange;
+}
+
+.contenu{
+	horizontal-align:center;
+}

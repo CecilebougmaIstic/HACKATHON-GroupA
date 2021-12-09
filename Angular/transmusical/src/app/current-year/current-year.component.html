@@ -1,13 +1,27 @@
 <html>
 <header class="main-header" role="banner">
-  <img id="banner" src="assets/images/banniere.png" alt="Banner Image"/>
 </header>
 <body>
-  <button (click)="toMain()">accueil</button>
-  <button (click)="toCurrentYear()">cette année</button>
-  <button (click)="toHistoric()">historique</button>
+<div class="banner">
+  <img class="banner_image" src="assets/images/banniere.png" alt="Banner Image"/>
+</div>
+<div class="onglets">
+  <button class="onglet" (click)="toMain()">accueil</button>
+  <button class="onglet" (click)="toCurrentYear()">cette année</button>
+  <button class="onglet" (click)="toHistoric()">historique</button>
+  <button class="onglet" (click)="toArtists()">artistes</button>
+ </div>
 <h2>42e édition des Trans Musicales</h2>
 <table>
+	<thead>
+		<th>artiste</th>
+		<th>pays</th>
+		<th>ville</th>
+		<th>salle</th>
+		<th>1ere date</th>
+		<th>date</th> 
+		<th>prix</th>
+	</thead>
 	<tr *ngFor="let concert of concerts">
 		<td>{{concert.fields.artist}}</td>
 		<td>{{concert.fields.country}}</td>
@@ -16,6 +30,10 @@
 		<td>{{concert.fields.firstdate}}</td>
 		<td>{{concert.date}}</td>
 		<td>{{concert.price}}€</td>
+		<td><button (click)="add()">ajouter</button></td>
+		<td><button (click)="delete()">modifier</button></td>
+		<td><button (click)="update()">supprimer</button></td>
+		
 	</tr>
 </table>
 

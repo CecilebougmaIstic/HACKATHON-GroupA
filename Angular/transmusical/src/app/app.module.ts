@@ -13,6 +13,10 @@ import { AccueilComponent } from './accueil/accueil.component';
 import { CreateConcertComponent } from './create-concert/create-concert.component';
 import { HistoricComponent } from './historic/historic.component';
 import { CurrentYearComponent } from './current-year/current-year.component';
+import { ListArtistsComponent } from './list-artists/list-artists.component';
+import {ArtistService} from './service/artist-service'
+import {ConcertService} from './service/concert-service'
+import {TransmusicaleService} from './service/transmusicale-service'
 
 
 
@@ -27,6 +31,7 @@ import { CurrentYearComponent } from './current-year/current-year.component';
     CreateConcertComponent,
     HistoricComponent,
     CurrentYearComponent,
+    ListArtistsComponent,
   ],
   imports: [
     BrowserModule,
@@ -42,7 +47,7 @@ import { CurrentYearComponent } from './current-year/current-year.component';
 
   ],
 
-  providers: [],
+  providers: [ArtistService,ConcertService,TransmusicaleService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

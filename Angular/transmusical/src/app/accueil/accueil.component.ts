@@ -9,21 +9,34 @@ import {Router} from '@angular/router'
 export class AccueilComponent implements OnInit {
 
   router:Router;
+c=true;
 
-  constructor(private r:Router) { 
+  constructor(public r:Router) { 
 	this.router=r;
-  }
+}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+	this.c=true;
+	
+	}
 
   toMain(){
+	this.c=true;	
+	console.log("accueil");
 	this.ngOnInit();
   }
   toCurrentYear(){
-	this.router.navigate(['current-year']);
+	this.c=false;
+	this.router.navigate(['/current-year']);
   }
   toHistoric(){
-	this.router.navigate(['historic']);
+	this.c=false;
+	this.router.navigate(['/historic']);
   }
+  toArtists(){
+	this.c=false;
+	this.router.navigate(['/list-artists']);
+  }
+
 
 }

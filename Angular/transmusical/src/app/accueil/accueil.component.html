@@ -1,11 +1,15 @@
 <html>
 <header class="main-header" role="banner">
-  <img id="banner" src="assets/images/banniere.png" alt="Banner Image"/>
 </header>
 <body>
-  <button (click)="toMain()">accueil</button>
-  <button (click)="toCurrentYear()">cette année</button>
-  <button (click)="toHistoric()">historique</button>
-
+<div class="banner">
+  <img class="banner_image" src="assets/images/banniere.png" alt="Banner Image"/>
+</div>
+<div class="onglets">
+  <button [ngClass]="{'onglet':c,'ongletactif':!c}" (click)="toMain()">accueil</button>
+  <button class="onglet" (click)="toCurrentYear()">cette année</button>
+  <button class="onglet" (click)="toHistoric()">historique</button>
+  <button class="onglet" (click)="toArtists()">artistes</button>  
+</div>
 </body>
 </html>
