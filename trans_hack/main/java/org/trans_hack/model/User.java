@@ -1,24 +1,40 @@
 package org.trans_hack.model;
 
-import java.util.*;
+import java.io.Serializable;
+
+import javax.persistence.DiscriminatorColumn;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Inheritance;
+import javax.persistence.InheritanceType;
+import javax.persistence.Table;
 
-@Entity
-public abstract class User {
+public abstract class User implements Serializable {
 
     /**
      * declaration of parameters
      */
     private  long id;
-    protected String nom;
-    protected String prenom;
+    protected String lastName;
+    protected String firstName;
     protected String email;
-    protected String motdepasse;
+    protected String passWords;
+    protected String typeUser;
+        /*Constructor*/
+    public User() {}
 
-    @Id
-    @GeneratedValue
+    public User(long id, String lastName, String firstName,
+                String email, String passWords, String typeUser) {
+        this.id = id;
+        this.lastName = lastName;
+        this.firstName = firstName;
+        this.email = email;
+        this.passWords = passWords;
+        this.typeUser = typeUser;
+    }
+            /*Getters & Setters*/
     public long getId() {
         return id;
     }
@@ -27,20 +43,20 @@ public abstract class User {
         this.id = id;
     }
 
-    public String getNom() {
-        return nom;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setNom(String nom) {
-        this.nom = nom;
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
-    public String getPrenom() {
-        return prenom;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setPrenom(String prenom) {
-        this.prenom = prenom;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
     public String getEmail() {
@@ -51,11 +67,31 @@ public abstract class User {
         this.email = email;
     }
 
-    public String getMotdepasse() {
-        return motdepasse;
+    public String getPassWords() {
+        return passWords;
     }
 
-    public void setMotdepasse(String motdepasse) {
-        this.motdepasse = motdepasse;
+    public void setPassWords(String passWords) {
+        this.passWords = passWords;
+    }
+
+    public String getTypeUser() {
+        return typeUser;
+    }
+
+    public void setTypeUser(String typeUser) {
+        this.typeUser = typeUser;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id=" + id +
+                ", lastName='" + lastName + '\'' +
+                ", firstName='" + firstName + '\'' +
+                ", email='" + email + '\'' +
+                ", passWords='" + passWords + '\'' +
+                ", typeUser='" + typeUser + '\'' +
+                '}';
     }
 }

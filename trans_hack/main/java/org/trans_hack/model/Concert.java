@@ -1,90 +1,82 @@
 package org.trans_hack.model;
 
-
-import java.time.LocalDateTime;
-import java.util.*;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-
-@Entity
 public class Concert {
-
-    /*Declaration of parameters*/
-    @Id
-    @GeneratedValue
-    private  long id;
-
-    protected LocalDateTime datePrestation;
-    protected String lieu;
-    protected  List<String> listeArtistes = new ArrayList<String>();
-    protected String description;
-    protected long  prix;
-    protected LocalDateTime debutConcert;
-    protected LocalDateTime  finConcert;
+    private String id;
+    private Fields fields;
+    private Geometry geometry;
+    protected  String adresseConcert;
+    protected float prix;
+    private Notation notation;
+    private boolean annuler;
 
 
-    public long getId() {
+    public Concert() {}
+
+
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
-    public LocalDateTime getDatePrestation() {
-        return datePrestation;
+    public Fields getFields() {
+        return fields;
     }
 
-    public void setDatePrestation(LocalDateTime datePrestation) {
-        this.datePrestation = datePrestation;
+    public void setFields(Fields fields) {
+        this.fields = fields;
     }
 
-    public String getLieu() {
-        return lieu;
+    public Geometry getGeometry() {
+        return geometry;
     }
 
-    public void setLieu(String lieu) {
-        this.lieu = lieu;
+    public void setGeometry(Geometry geometry) {
+        this.geometry = geometry;
     }
 
-    public List<String> getListeArtistes() {
-        return listeArtistes;
+    public String getAdresseConcert() {
+        return adresseConcert;
     }
 
-    public void setListeArtistes(List<String> listeArtistes) {
-        this.listeArtistes = listeArtistes;
+    public void setAdresseConcert(String adresseConcert) {
+        this.adresseConcert = adresseConcert;
     }
 
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
-
-    public long getPrix() {
+    public float getPrix() {
         return prix;
     }
 
-    public void setPrix(long prix) {
+    public void setPrix(float prix) {
         this.prix = prix;
     }
 
-    public LocalDateTime getDebutConcert() {
-        return debutConcert;
+    public Notation getNotation() {
+        return notation;
     }
 
-    public void setDebutConcert(LocalDateTime debutConcert) {
-        this.debutConcert = debutConcert;
+    public void setNotation(Notation notation) {
+        this.notation = notation;
     }
 
-    public LocalDateTime getFinConcert() {
-        return finConcert;
+    public boolean isAnnuler() {
+        return annuler;
     }
 
-    public void setFinConcert(LocalDateTime finConcert) {
-        this.finConcert = finConcert;
+    public void setAnnuler(boolean annuler) {
+        this.annuler = annuler;
+    }
+
+    @Override
+    public String toString() {
+        return "Concert{" +
+                "id='" + id + '\'' +
+                ", fields=" + fields +
+                ", geometry=" + geometry +
+                ", adresseConcert='" + adresseConcert + '\'' +
+                ", prix=" + prix +
+                '}';
     }
 }

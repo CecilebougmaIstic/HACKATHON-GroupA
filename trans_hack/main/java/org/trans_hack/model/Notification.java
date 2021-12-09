@@ -1,12 +1,10 @@
 package org.trans_hack.model;
 
+import java.io.Serializable;
 import java.util.*;
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
-@Entity
-public class Notification {
+public class Notification implements Serializable {
 
     /**
      * Declaration of Parameters
@@ -14,8 +12,15 @@ public class Notification {
     private  long id;
     protected String message;
 
-    @Id
-    @GeneratedValue
+   /*Constructors*/
+    public Notification() {}
+
+    public Notification(long id, String message) {
+        this.id = id;
+        this.message = message;
+    }
+    /*Getter & Setter*/
+
     public long getId() {
         return id;
     }
@@ -30,5 +35,14 @@ public class Notification {
 
     public void setMessage(String message) {
         this.message = message;
+    }
+    /*Metod toString*/
+
+    @Override
+    public String toString() {
+        return "Notification{" +
+                "id=" + id +
+                ", message='" + message + '\'' +
+                '}';
     }
 }
