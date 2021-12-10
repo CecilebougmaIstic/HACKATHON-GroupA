@@ -56,7 +56,7 @@ class PageAnnee extends StatelessWidget {
                       style: TextStyle(fontSize: 20),
                     ),
                     subtitle: Text('23ème édition'),
-                   onTap: () => Navigator.pushNamed(context, '23')
+                   onTap: () => Navigator.pushNamed(context, 'historique')
                   ),
                  const ListTile(
                     leading: Icon(Icons.repeat_on_outlined,

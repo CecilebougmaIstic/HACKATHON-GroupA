@@ -37,54 +37,45 @@ Drawer getDraw(context) {
           title: const Text('Accueil'),
           onTap: () {
             // Navigator.pop(context);
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (_) => const PageAccueil(title: 'title')),
-            );
+            Navigator.pushNamed(
+                context,
+                'homepage');
           },
         ),
         ListTile(
           title: const Text('Artistes'),
           onTap: () {
             // Navigator.pop(context);
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (_) => const PageArtiste(title: 'title')),
-            );
+            Navigator.pushNamed(
+                context,
+                'artists');
           },
         ),
         ListTile(
           title: const Text("Pays d'origine"),
           onTap: () {
             // Navigator.pop(context);
-            Navigator.push(
-              context,
-              MaterialPageRoute(builder: (_) => const PagePays(title: 'title')),
-            );
+            Navigator.pushNamed(
+                context,
+                'pagePays');
           },
         ),
         ListTile(
           title: const Text('Historique'),
           onTap: () {
             // Navigator.pop(context);
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (_) => const PageAnnee(title: 'title')),
-            );
+            Navigator.pushNamed(
+                context,
+                'historique');
           },
         ),
         ListTile(
           title: const Text('Cette Année'),
           onTap: () {
             // Navigator.pop(context);
-            Navigator.push(
-              context,
-              MaterialPageRoute(
-                  builder: (_) => const PageCetteAnnee(title: 'title')),
-            );
+            Navigator.pushNamed(
+                context,
+                'pageCetteAnnee');
           },
         ),
       ],
