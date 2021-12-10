@@ -9,20 +9,20 @@
   <button class="onglet" (click)="toHistoric()">Historique</button>
   <button class="onglet" (click)="toArtists()">Artistes</button>
   <button class="onglet" (click)="toConnexion()">Connexion</button>
-  
 </nav>
-<table>
-	<thead>
-		<tr>
-		<th>édition</th>
-		<th>année</th>
-		</tr>
-	</thead>
-	<tr *ngFor="let transmusicale of transmusicales">
-		<td>{{transmusicale.edition}}</td>
-		<td>{{transmusicale.year}}</td>
-	</tr>
-</table>
+
+<div >
+	<div>
+		<label>Nom d'utilisateur</label>
+		<input class="field"/>
+	</div>
+	<div>
+		<label>Mot de passe</label>
+		<input class="field"/>
+	</div>
+	
+	<button class="connexion">Connexion</button>
+</div>
 
 </body>
 </html>

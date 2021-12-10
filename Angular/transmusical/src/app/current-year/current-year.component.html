@@ -2,25 +2,27 @@
 <header class="main-header" role="banner">
 </header>
 <body>
-<div class="banner">
+<nav class="onglets">
   <img class="banner_image" src="assets/images/banniere.png" alt="Banner Image"/>
-</div>
-<div class="onglets">
-  <button class="onglet" (click)="toMain()">accueil</button>
-  <button class="onglet" (click)="toCurrentYear()">cette année</button>
-  <button class="onglet" (click)="toHistoric()">historique</button>
-  <button class="onglet" (click)="toArtists()">artistes</button>
- </div>
+  <button class="onglet" (click)="toMain()">Accueil</button>
+  <button class="onglet" (click)="toCurrentYear()">Cette année</button>
+  <button class="onglet" (click)="toHistoric()">Historique</button>
+  <button class="onglet" (click)="toArtists()">Artistes</button>
+  <button class="onglet" (click)="toConnexion()">Connexion</button>
+  
+</nav>
 <h2>42e édition des Trans Musicales</h2>
-<table>
+
+<div class="contenu">
+<table class="tableau">
 	<thead>
-		<th>artiste</th>
-		<th>pays</th>
-		<th>ville</th>
-		<th>salle</th>
-		<th>1ere date</th>
-		<th>date</th> 
-		<th>prix</th>
+		<th class="header">artiste</th>
+		<th class="header">pays</th>
+		<th class="header">ville</th>
+		<th class="header">salle</th>
+		<th class="header">1ere date</th>
+		<th class="header">date</th> 
+		<th class="header">prix</th>
 	</thead>
 	<tr *ngFor="let concert of concerts">
 		<td>{{concert.fields.artist}}</td>
@@ -30,12 +32,14 @@
 		<td>{{concert.fields.firstdate}}</td>
 		<td>{{concert.date}}</td>
 		<td>{{concert.price}}€</td>
-		<td><button (click)="add()">ajouter</button></td>
 		<td><button (click)="delete()">modifier</button></td>
 		<td><button (click)="update()">supprimer</button></td>
 		
 	</tr>
 </table>
+</div>
+<button class="button" (click)="createConcert()">Ajouter un artiste</button>
+
 
 </body>
 </html>

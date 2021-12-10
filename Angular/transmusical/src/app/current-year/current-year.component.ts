@@ -20,10 +20,10 @@ export class CurrentYearComponent implements OnInit {
   }
 
   ngOnInit(): void {
-/*	this.concertService.findAll().subscribe(data => {
+	this.concertService.findAll().subscribe(data => {
       this.concerts = data;
+		console.log(data);
     });
-*/
   }
   toMain(){
 	this.router.navigate(['/accueil']);
@@ -37,8 +37,14 @@ export class CurrentYearComponent implements OnInit {
   toArtists(){
 	this.router.navigate(['/list-artists']);
   }
+  toConnexion(){
+	this.router.navigate(['/connexion']);	
+  }
 
-	add(){}
+  createConcert(){
+	this.router.navigate(['/create-concert']);
+  }
+
 	delete(){}
 	update(){}
 

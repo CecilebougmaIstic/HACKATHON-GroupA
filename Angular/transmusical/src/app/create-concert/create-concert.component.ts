@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import {Concert} from '../model/concert'
 import {ConcertService} from '../service/concert-service'
+import {Router} from '@angular/router'
 
 @Component({
   selector: 'app-create-concert',
@@ -11,12 +12,20 @@ export class CreateConcertComponent implements OnInit {
 
 	concert:Concert;
 	concertService:ConcertService;
+	router:Router;
+
 	
-  constructor(private cS:ConcertService) {
+  constructor(private cS:ConcertService,r:Router) {
 	this.concertService=cS;
+	this.router=r;
+
 }
 
   ngOnInit(): void {}
 
-  onCreateConcert(){}
+  onCreateConcert(){
+	this.concertService.create(this.concert);
+	console.log(this.concert);
+	this.router.navigate(['/current-year']);
+	}
 }

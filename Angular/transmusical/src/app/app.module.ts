@@ -7,7 +7,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { MessageToMobileComponent } from './message-to-mobile/message-to-mobile.component';
 import { TestComponent } from './test/test.component';
-import { CreationEvenementComponent } from './creation-evenement/creation-evenement.component';
 import { InscriptionUtilisateurComponent } from './inscription-utilisateur/inscription-utilisateur.component';
 import { AccueilComponent } from './accueil/accueil.component';
 import { CreateConcertComponent } from './create-concert/create-concert.component';
@@ -16,7 +15,8 @@ import { CurrentYearComponent } from './current-year/current-year.component';
 import { ListArtistsComponent } from './list-artists/list-artists.component';
 import {ArtistService} from './service/artist-service'
 import {ConcertService} from './service/concert-service'
-import {TransmusicaleService} from './service/transmusicale-service'
+import {TransmusicaleService} from './service/transmusicale-service';
+import { ConnexionComponent } from './connexion/connexion.component'
 
 
 
@@ -25,13 +25,13 @@ import {TransmusicaleService} from './service/transmusicale-service'
     AppComponent,
     MessageToMobileComponent,
     TestComponent,
-    CreationEvenementComponent,
     InscriptionUtilisateurComponent,
     AccueilComponent,
     CreateConcertComponent,
     HistoricComponent,
     CurrentYearComponent,
     ListArtistsComponent,
+    ConnexionComponent,
   ],
   imports: [
     BrowserModule,

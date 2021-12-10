@@ -39,5 +39,9 @@ export class ListArtistsComponent implements OnInit {
 	this.ngOnInit();
   }
 
+  toConnexion(){
+	this.router.navigate(['/connexion']);	
+  }
+
 
 }

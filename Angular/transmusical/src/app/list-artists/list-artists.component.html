@@ -2,15 +2,15 @@
 <header class="main-header" role="banner">
 </header>
 <body>
-<div class="banner">
+<nav class="onglets">
   <img class="banner_image" src="assets/images/banniere.png" alt="Banner Image"/>
-</div>
-<div class="onglets">
-  <button class="onglet" (click)="toMain()">accueil</button>
-  <button class="onglet" (click)="toCurrentYear()">cette année</button>
-  <button class="onglet" (click)="toHistoric()">historique</button>
-  <button class="onglet" (click)="toArtists()">artistes</button>
-</div>
+  <button class="onglet" (click)="toMain()">Accueil</button>
+  <button class="onglet" (click)="toCurrentYear()">Cette année</button>
+  <button class="onglet" (click)="toHistoric()">Historique</button>
+  <button class="onglet" (click)="toArtists()">Artistes</button>
+  <button class="onglet" (click)="toConnexion()">Connexion</button>
+</nav>
+
 <div class="contenu">
 <table class="tableau">
 	<thead>
@@ -19,13 +19,16 @@
 		<th class="header">Concert</th>
 		<th class="header">Date</th>
 		<th class="header">Edition</th>
+		<th class="header">Prix</th>
 		</tr>
 	</thead>
 	<tr class="colonne" *ngFor="let artist of artists">
 		<td class="case">{{artist.nomGroupe}}</td>
-		<td class="case">{{artist.nom_spectacle_ou_soiree}}</td>
+		<td class="case">{{artist.nomSpectacle}}</td>
 		<td class="case">{{artist.dateConcert}}</td>
 		<td class="case">{{artist.edition}}</td>
+		<td class="case">{{artist.prix}} €</td>
+		
 	</tr>
 </table>
 </div>
