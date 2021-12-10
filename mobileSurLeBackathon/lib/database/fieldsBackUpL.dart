@@ -2,21 +2,21 @@
 // ignore: camel_case_types,
 import 'package:flutter/cupertino.dart';
 
-class fieldsBackUp {
+class fieldsBackUpL {
   late final String artistes;
-  late final String annee;
+  late final int annee;
   late final String date;
   late final String deezer;
   late final String edition;
-  late final int id;
+  late final String id;
   late final String image;
   late final String pays;
   late final String salle;
   late final String spotify;
-  late final String timestamp;
+  late final int timestamp;
   late final String ville;
 
-  fieldsBackUp({
+  fieldsBackUpL({
     required this.artistes,
     required this.annee,
     required this.date,
