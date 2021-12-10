@@ -18,9 +18,9 @@
 		<th>année</th>
 		</tr>
 	</thead>
-	<tr *ngFor="let transmusicale of transmusicales">
-		<td>{{transmusicale.edition}}</td>
-		<td>{{transmusicale.year}}</td>
+	<tr *ngFor="let i in range(1979,2020)">
+		<td>{{i-41}}e edition des transmusicales</td>
+		<td>{{i}}</td>
 	</tr>
 </table>
 

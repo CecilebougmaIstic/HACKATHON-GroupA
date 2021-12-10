@@ -15,6 +15,7 @@ export class HistoricComponent implements OnInit {
   transmusicales:Transmusicale[];
   transmusicaleService:TransmusicaleService;
 
+
   constructor(public r:Router,public tS:TransmusicaleService) { 
 	this.router=r;
 	this.transmusicaleService=tS;
