@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652749707691",
+    "project_id": "test-backhaton",
+    "storage_bucket": "test-backhaton.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652749707691:android:410c551030cff3e5069aee",
+        "android_client_info": {
+          "package_name": "com.example.test_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652749707691-0p9k2vq55396lpcrqi9fkt56l8bsntfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE-bYLnrsh2NpDU9c_DYUjq4k7ClAbpYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652749707691-0p9k2vq55396lpcrqi9fkt56l8bsntfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

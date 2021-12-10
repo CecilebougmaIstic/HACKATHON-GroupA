@@ -3,89 +3,20 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-void main() {
-  runApp(const MyApp());
-}
+import 'function.dart';
 
-class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      title: '',
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.red,
-        visualDensity: VisualDensity.adaptivePlatformDensity,
-      ),
-      home: const MyHage(),
-    );
-  }
-}
-
-class MyHage extends StatelessWidget {
-  const MyHage({Key? key}) : super(key: key);
+class PageCetteAnnee extends StatelessWidget {
+  const PageCetteAnnee({Key? key, required String title}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('TransHack'),
+        title: const Text('Cette Année'),
+        foregroundColor: Colors.white,
+        backgroundColor: Colors.grey,
       ),
-      drawer: Drawer(
-        child: ListView(
-          // Important: Remove any padding from the ListView.
-          padding: EdgeInsets.zero,
-          children: [
-            Container(
-              decoration: BoxDecoration(
-                color: Colors.black,
-                border: Border.all(
-                  width: 0,
-                ),
-              ),
-              child: const Image(
-                image: AssetImage("images/transm.jpeg"),
-                //height: 180,
-              ),
-            ),
-            const ListTile(
-              title: Text(
-                "Catégories",
-                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15),
-              ),
-              /*     onTap: () {
-                Navigator.pop(context); */
-              // },
-            ),
-            ListTile(
-              title: const Text('Artistes'),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-            ListTile(
-              title: const Text("Pays d'origine"),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-            ListTile(
-              title: const Text('Année'),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-            ListTile(
-              title: const Text('Date'),
-              onTap: () {
-                Navigator.pop(context);
-              },
-            ),
-          ],
-        ),
-      ),
+      drawer: getDraw(context),
       body: Center(
         child: ListView(children: [
           Container(
@@ -110,7 +41,7 @@ class MyHage extends StatelessWidget {
                 children: const <Widget>[
                   ListTile(
                     title: Text(
-                      "Concert du Jour",
+                      "Artistes",
                       style:
                           TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                     ),
@@ -118,10 +49,9 @@ class MyHage extends StatelessWidget {
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.red, size: 45),
                     title: Text(
-                      "Let's Talk About Love",
+                      "Moderns Talking",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('Modern Talking Album'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.grey, size: 45),
@@ -129,7 +59,6 @@ class MyHage extends StatelessWidget {
                       "Bob Marley",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('No Woman, No Cry'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.black, size: 45),
@@ -137,12 +66,11 @@ class MyHage extends StatelessWidget {
                       "Jean Jacques Goldman",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('Je marche seul'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.grey, size: 45),
                     title: Text(
-                      "Jean Jacques Goldman",
+                      "DJ Snake",
                       style: TextStyle(fontSize: 20),
                     ),
                     subtitle: Text('Je marche seul'),
@@ -150,10 +78,9 @@ class MyHage extends StatelessWidget {
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.red, size: 45),
                     title: Text(
-                      "Jean Jacques Goldman",
+                      "Diams",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('Je marche seul'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.grey, size: 45),
@@ -161,7 +88,6 @@ class MyHage extends StatelessWidget {
                       "Jean Jacques Goldman",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('Je marche seul'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.black, size: 45),
@@ -169,7 +95,6 @@ class MyHage extends StatelessWidget {
                       "Jean Jacques Goldman",
                       style: TextStyle(fontSize: 20),
                     ),
-                    subtitle: Text('Je marche seul'),
                   ),
                   ListTile(
                     leading: Icon(Icons.album, color: Colors.red, size: 45),
