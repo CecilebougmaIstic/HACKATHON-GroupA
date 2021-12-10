@@ -7,7 +7,7 @@ import 'package:projetest/database/fieldsBackUpL.dart'; // -L
 import 'package:projetest/function.dart';
 
 class PageProfil extends StatelessWidget {
-  const PageProfil({Key? key, required String title}) : super(key: key);
+  const PageProfil({Key? key, required String title, required String artistes}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
