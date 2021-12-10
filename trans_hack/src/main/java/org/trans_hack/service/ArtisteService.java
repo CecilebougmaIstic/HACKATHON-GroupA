@@ -3,25 +3,22 @@ package org.trans_hack.service;
 import com.google.api.core.ApiFuture;
 import com.google.cloud.firestore.*;
 import com.google.firebase.cloud.FirestoreClient;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
 import org.trans_hack.model.Artiste;
 import org.trans_hack.model.Concert;
-import org.trans_hack.model.Geometry;
 import org.trans_hack.utils.Utils;
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 import java.util.concurrent.ExecutionException;
+
 @Service
 public class ArtisteService {
     public static final String COLLECTION_NAME = "concerts";
 
-    private static final Logger LOGGER = LoggerFactory.getLogger(ConcertService.class);
-
+    private static final Logger LOGGER = LoggerFactory.getLogger(ArtisteService.class);
 
     /*l’exploration des différents artistes qui
    ont participé aux Transmusicales par une liste*/
@@ -31,7 +28,6 @@ public class ArtisteService {
         Iterator<DocumentReference> iterator =documentReference.iterator();
         List<Artiste>listArtist = new ArrayList<Artiste>();
         Concert concert=null;
-        //Geometry coordonneesGeometric =null;
         while(iterator.hasNext()){
             DocumentReference documentReference1 = iterator.next();
             ApiFuture<DocumentSnapshot> future = documentReference1.get();
@@ -42,7 +38,6 @@ public class ArtisteService {
             infosArtiste.setNomSpectacle(concert.getFields().getNom_spectacle_ou_soiree());
             infosArtiste.setDateConcert(concert.getFields().get_1ere_date());
             infosArtiste.setPaysOrigine(concert.getFields().getOrigine_pays1());
-           // System.out.println("**************"+infosArtiste.getNomGroupe());
             infosArtiste.setAdresseConcert(concert.getAdresseConcert());
             infosArtiste.setEdition(concert.getFields().getEdition());
             infosArtiste.setAnnuler(concert.isAnnuler());
@@ -52,7 +47,7 @@ public class ArtisteService {
             infosArtiste.setLieuCoordonnee(concert.getGeometry().getCoordinates());
             }
             listArtist.add(infosArtiste);
-            System.out.println(infosArtiste.toString());
+           // System.out.println(infosArtiste.toString());
         }
 
         System.out.println("fin---------------");
@@ -67,7 +62,6 @@ public class ArtisteService {
         Iterator<DocumentReference> iterator =documentReference.iterator();
         List<Artiste>listArtist = new ArrayList<Artiste>();
         Concert concert=null;
-        //Geometry coordonneesGeometric =null;
         while(iterator.hasNext()){
             DocumentReference documentReference1 = iterator.next();
             ApiFuture<DocumentSnapshot> future = documentReference1.get();
@@ -81,7 +75,6 @@ public class ArtisteService {
                 System.out.println(infosArtiste.toString());
             }
         }
-
         System.out.println("fin---------------");
         return listArtist;
     }
@@ -97,7 +90,6 @@ lesquels il est apparu, dates, pays, etc)*/
             LOGGER.info("TAG_MEDIUM_MYRICK_CHOW", "Veuillez saisir un nom d'artiste");
         } else {
             Firestore dbFirestore = FirestoreClient.getFirestore();
-
             Concert concert = null;
             CollectionReference concerts = dbFirestore.collection(COLLECTION_NAME);
             Query query = concerts.whereEqualTo("fields.artistes", nomGroupe);
@@ -112,7 +104,6 @@ lesquels il est apparu, dates, pays, etc)*/
                 artiste.setPaysOrigine(concert.getFields().getOrigine_pays1());
                 System.out.println("**************" + artiste);
                 listConcertArtiste.add(artiste);
-                //System.out.println("*************" + listConcertArtiste);
             }
         }
         return listConcertArtiste;
@@ -122,8 +113,7 @@ lesquels il est apparu, dates, pays, etc)*/
 
     public List<Artiste> getDayArtist(String day) throws ExecutionException, InterruptedException {
         Firestore dbFirestore = FirestoreClient.getFirestore();
-        List<Artiste> lisDayArtist = new ArrayList<Artiste>();
-
+        List<Artiste> lisDayArtist = new ArrayList<>();
         Concert concert = null;
         CollectionReference concerts = dbFirestore.collection(COLLECTION_NAME);
         Query query = concerts.whereEqualTo("fields._1ere_date", Utils.convertDateToFireFormat(day));
@@ -139,12 +129,22 @@ lesquels il est apparu, dates, pays, etc)*/
                 dayArtists.setNomGroupe(concert.getFields().getArtistes());
                 dayArtists.setEdition(concert.getFields().getEdition());
                 dayArtists.setDateConcert(concert.getFields().get_1ere_date());
-                System.out.println("**************" + dayArtists);
+               // System.out.println("**************" + dayArtists);
                 lisDayArtist.add(dayArtists);
-                System.out.println("*************" + dayArtists);
+              //  System.out.println("*************" + dayArtists);
             }
         }
         return lisDayArtist;
+    }
 
+    /*Supprimer un artiste
+    * La condition pour autoriser la suppresion d'un artiste pour les trans en cours est géré via l'iHM
+    * lorsque le programmeur clique sur le bouton delete artiste, avant d'appeler la ressource delete
+    * un contrôle est effectué afin de savoir si la date saisie est une
+    * annéee en cours'*/
+    public String deleteArtist(String nomGroupe) throws InterruptedException, ExecutionException {
+        Firestore dbFirestore = FirestoreClient.getFirestore();
+        ApiFuture<WriteResult> collectionsApiFuture = dbFirestore.collection(COLLECTION_NAME).document(nomGroupe).delete();
+        return "The artist " + nomGroupe +"has been deleted succesfully!";
     }
 }

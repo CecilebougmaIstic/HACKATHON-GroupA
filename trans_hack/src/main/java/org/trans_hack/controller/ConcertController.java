@@ -9,6 +9,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import org.trans_hack.model.Artiste;
 import org.trans_hack.model.Concert;
+import org.trans_hack.model.Fields;
+import org.trans_hack.model.Geometry;
 import org.trans_hack.service.ConcertService;
 import org.trans_hack.utils.Utils;
 
@@ -36,10 +38,12 @@ public class ConcertController {
         return  concertService.saveFields(concert);
 
     }
-
+/*Pour enregistrer un concert*/
     @PostMapping("/concerts/v2")
     public String saveFields(@RequestBody Artiste artiste) throws ExecutionException, InterruptedException {
         Concert concert=new Concert();
+        concert.setFields(new Fields());
+        concert.setGeometry(new Geometry());
         concert.setId(Utils.generateUUID());
         concert.getFields().setArtistes(artiste.getNomGroupe());
         concert.getFields().set_1ere_date(artiste.getDateConcert());
@@ -51,11 +55,11 @@ public class ConcertController {
         concert.setNotation(artiste.getNotation());
         concert.setAdresseConcert(artiste.getAdresseConcert());
         concert.getGeometry().setCoordinates(artiste.getLieuCoordonnee());
-        System.out.println(concert.toString() );
+        //System.out.println(concert.toString() );
         return  concertService.saveFields(concert);
 
     }
-
+/*Pour modifier un concert en  fournissant en paramètre un artiste*/
     @PutMapping("/concerts/v2/{id}")
     public String updateFields(@RequestBody Artiste artiste, @PathVariable("Id") String id  ) throws ExecutionException, InterruptedException {
         Concert concert = new Concert();
@@ -79,18 +83,9 @@ public class ConcertController {
     }
 
 
-
+/*Pour injecter la Base de données dans Firebase*/
     @PostMapping("/concerts/initAnciensConcerts")
     public String saveFieldsBulk() throws ExecutionException, InterruptedException, IOException {
-
-       /* String dateToParse = "01-Jun-04";  // 1
-      DateTimeFormatter usDateFormatter = new DateTimeFormatterBuilder()
-               // .parseCaseInsensitive()
-                .appendPattern("dd-MMM-yy")
-                .toFormatter(); // 2
-        LocalDate parsedDate = LocalDate.parse(dateToParse, usDateFormatter);
-        //LocalDate parsedDate = LocalDate.parse(dateToParse);  // 2
-        System.out.println("----------------------"+parsedDate);*/
           List<Concert> concerts=readFile();
         for(Concert concert:concerts)
         {
@@ -102,22 +97,18 @@ public class ConcertController {
 
     }
 
-
     private List<Concert> readFile() throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
         objectMapper.registerModule(new JavaTimeModule());
         List<Concert> concerts =  Arrays.asList(objectMapper.readValue(new File("src/main/resources/transMusical.json"), Concert[].class));
         return concerts;
     }
+    /*Get ALL Concerts*/
     @GetMapping("/concerts")
     public List<Concert> getArtistAllDetails() throws ExecutionException, InterruptedException {
         return concertService.getFieldsDetail();
     }
-/*
-    @GetMapping("/concerts/artiste")
-    public Concert getOneArtistDetails(Concert artiste) throws ExecutionException, InterruptedException {
-        return concertService.getConcertByArtistes(artiste);
-    }*/
+
 
 /*l’exploration des différents artistes qui ont participé aux Transmusicales par une liste, et la recherche
 par le critère pays
@@ -137,4 +128,5 @@ par le critère pays
         System.out.println("+++++++++++++++++++++" +year);
         return concertService.getInfoConcertByYear(year);
     }
+
 }

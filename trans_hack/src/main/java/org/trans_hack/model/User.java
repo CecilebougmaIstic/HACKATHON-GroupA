@@ -1,5 +1,8 @@
 package org.trans_hack.model;
 
+import com.fasterxml.jackson.annotation.JsonSetter;
+import com.fasterxml.jackson.annotation.JsonSetter;
+
 import java.io.Serializable;
 
 import javax.persistence.DiscriminatorColumn;
@@ -10,42 +13,41 @@ import javax.persistence.Id;
 import javax.persistence.Inheritance;
 import javax.persistence.InheritanceType;
 import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
 
-public abstract class User implements Serializable {
+
+public class User implements Serializable {
 
     /**
      * declaration of parameters
      */
-    private  long id;
+    private  String id;
     protected String lastName;
     protected String firstName;
     protected String email;
-    protected String passWords;
-    protected String typeUser;
-        /*Constructor*/
-    public User() {}
+    protected String passWord;
+    protected TypeUser typeUser;
 
-    public User(long id, String lastName, String firstName,
-                String email, String passWords, String typeUser) {
-        this.id = id;
-        this.lastName = lastName;
-        this.firstName = firstName;
-        this.email = email;
-        this.passWords = passWords;
-        this.typeUser = typeUser;
-    }
-            /*Getters & Setters*/
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public User() {
+    }
+
+    public User(String email, String passWord) {
+        this.email = email;
+        this.passWord = passWord;
+    }
+
+    public void setId(String id) {
         this.id = id;
     }
 
     public String getLastName() {
         return lastName;
     }
+
 
     public void setLastName(String lastName) {
         this.lastName = lastName;
@@ -55,6 +57,7 @@ public abstract class User implements Serializable {
         return firstName;
     }
 
+
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }
@@ -63,34 +66,37 @@ public abstract class User implements Serializable {
         return email;
     }
 
+
     public void setEmail(String email) {
         this.email = email;
     }
 
-    public String getPassWords() {
-        return passWords;
+
+    public String getPassWord() {
+        return passWord;
     }
 
-    public void setPassWords(String passWords) {
-        this.passWords = passWords;
+    public void setPassWord(String passWord) {
+        this.passWord = passWord;
     }
 
-    public String getTypeUser() {
+
+    public TypeUser getTypeUser() {
         return typeUser;
     }
 
-    public void setTypeUser(String typeUser) {
+    public void setTypeUser(TypeUser typeUser) {
         this.typeUser = typeUser;
     }
 
     @Override
     public String toString() {
         return "User{" +
-                "id=" + id +
+                "id='" + id + '\'' +
                 ", lastName='" + lastName + '\'' +
                 ", firstName='" + firstName + '\'' +
                 ", email='" + email + '\'' +
-                ", passWords='" + passWords + '\'' +
+                ", passWord='" + passWord + '\'' +
                 ", typeUser='" + typeUser + '\'' +
                 '}';
     }
