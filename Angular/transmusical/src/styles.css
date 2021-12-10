@@ -6,9 +6,9 @@ body{
 	text-align:center;
 }
 .banner_image{
-	height:250px;
-	width:800px;
-	text-align:center;
+	height:100px;
+	width:150px;
+	vertical-align: left;
 }
 
 .onglets{
@@ -22,8 +22,8 @@ body{
 	height:50px;
 	margin-right:20px;
 	margin-left:20px;
-	background-color:cyan;
-	color:blue;
+	background-color:grey;
+	color:black;
 	font-size:25px;
 	border-radius:30px;
 }
@@ -41,7 +41,7 @@ body{
 .tableau{
 	margin: 0 auto;
 	text-align:center;
-	background-color:cyan;
+	background-color:white;
 	border-style:solid;
 	border-radius:20px;
 }
@@ -49,23 +49,49 @@ body{
 .row{
 	background-color:red;
 	color:green;
+	border-style:solid;
 }
 
 .colonne{
-	background-color:green;
+	background-color:black;
 }
 
 .header{
-	color:blue;
+	color:black;
 	width:230px;
 	height:40px;
 	font-size:20px;
 }
 
 .case{
-	background-color:orange;
+	background-color:white;
 }
 
 .contenu{
 	horizontal-align:center;
+}
+
+.form-group{
+	width:100px;
+	padding-top:30px;	
+}
+
+.label{
+	padding-right:50px;
+	color:black;
+	
+}
+
+.button{
+	font-size:20px;
+	background-color:grey;
+	text-align:center;
+	width:200px;
+	height:50px;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+	border-radius:30px;
+	
 }

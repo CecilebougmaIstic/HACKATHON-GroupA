@@ -1,61 +1,103 @@
 package org.trans_hack.model;
 
-import java.util.*;
+import com.fasterxml.jackson.annotation.JsonSetter;
+import com.fasterxml.jackson.annotation.JsonSetter;
+
+import java.io.Serializable;
+
+import javax.persistence.DiscriminatorColumn;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Inheritance;
+import javax.persistence.InheritanceType;
+import javax.persistence.Table;
+import javax.xml.bind.annotation.XmlRootElement;
 
-@Entity
-public abstract class User {
+
+public class User implements Serializable {
 
     /**
      * declaration of parameters
      */
-    private  long id;
-    protected String nom;
-    protected String prenom;
+    private  String id;
+    protected String lastName;
+    protected String firstName;
     protected String email;
-    protected String motdepasse;
+    protected String passWord;
+    protected TypeUser typeUser;
 
-    @Id
-    @GeneratedValue
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public User() {
+    }
+
+    public User(String email, String passWord) {
+        this.email = email;
+        this.passWord = passWord;
+    }
+
+    public void setId(String id) {
         this.id = id;
     }
 
-    public String getNom() {
-        return nom;
+    public String getLastName() {
+        return lastName;
     }
 
-    public void setNom(String nom) {
-        this.nom = nom;
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
-    public String getPrenom() {
-        return prenom;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setPrenom(String prenom) {
-        this.prenom = prenom;
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
     }
 
     public String getEmail() {
         return email;
     }
 
+
     public void setEmail(String email) {
         this.email = email;
     }
 
-    public String getMotdepasse() {
-        return motdepasse;
+
+    public String getPassWord() {
+        return passWord;
     }
 
-    public void setMotdepasse(String motdepasse) {
-        this.motdepasse = motdepasse;
+    public void setPassWord(String passWord) {
+        this.passWord = passWord;
+    }
+
+
+    public TypeUser getTypeUser() {
+        return typeUser;
+    }
+
+    public void setTypeUser(TypeUser typeUser) {
+        this.typeUser = typeUser;
+    }
+
+    @Override
+    public String toString() {
+        return "User{" +
+                "id='" + id + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", firstName='" + firstName + '\'' +
+                ", email='" + email + '\'' +
+                ", passWord='" + passWord + '\'' +
+                ", typeUser='" + typeUser + '\'' +
+                '}';
     }
 }

@@ -17,7 +17,7 @@ export class ArtistService {
 
   public findAll(): Observable<Artist[]>
   {
-    return this.http.get<Artist[]>(this.baseUrl + '/artistes/only');
+    return this.http.get<Artist[]>(this.baseUrl + '/artistes');
   }
 
   public findOne(): Observable<Artist>

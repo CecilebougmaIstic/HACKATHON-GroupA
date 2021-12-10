@@ -21,10 +21,10 @@ export class HistoricComponent implements OnInit {
 	}
 
   ngOnInit(): void {
-	this.transmusicaleService.findAll().subscribe(data => {
+/*	this.transmusicaleService.findAll().subscribe(data => {
       this.transmusicales = data;
     });
-  }
+*/  }
   toMain(){
 	this.router.navigate(['/accueil']);
   }
@@ -37,5 +37,9 @@ export class HistoricComponent implements OnInit {
   toArtists(){
 	this.router.navigate(['/list-artists']);
   }
+  toConnexion(){
+	this.router.navigate(['/connexion']);	
+  }
+
 
 }

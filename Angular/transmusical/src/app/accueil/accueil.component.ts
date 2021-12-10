@@ -38,5 +38,8 @@ c=true;
 	this.router.navigate(['/list-artists']);
   }
 
+  toConnexion(){
+	this.router.navigate(['/connexion']);	
+  }
 
 }

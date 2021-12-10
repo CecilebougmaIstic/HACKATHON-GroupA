@@ -1,0 +1,5085 @@
+[
+  {
+    "fields": {
+      "spotify": "spotify:album:18Zy53OB9BCG0GtoGkQXv0",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Bjørn Berge",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "deezer": "2999681",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:2bDFUw8eB0OAIMigH77VVf",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Border Crossing",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-04",
+      "deezer": "86869",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Carbon/Silicon",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Newport",
+      "spotify": "spotify:album:4CvsCpaTJ3y4KQLfE4q5Oq",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Goldie Lookin' Chain",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-04",
+      "deezer": "86053",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Perpignan",
+      "spotify": "spotify:album:5TOKU69jFYySsn0CgzL14U",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Hushpuppies",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "deezer": "898419",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1101337200,
+      "origine_ville1": "Nantes",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_date": "24-Nov-04",
+      "1ere_date_timestamp": 1101250800,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "01-Dec-04",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "25-Nov-04",
+      "3eme_date_timestamp": 1101423600,
+      "4eme_date_timestamp": 1101942000,
+      "2eme_salle": "L'Olympic, Nantes",
+      "3eme_salle": "L'Omnibus, Saint-Malo",
+      "artistes": "Hutchinson",
+      "1ere_salle": "Ubu",
+      "1ere_date": "23-Nov-04",
+      "4eme_salle": "Village"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Oslo",
+      "spotify": "spotify:album:3Et9iQX7081Yk2lcHKZgT5",
+      "1ere_date_timestamp": 1102028400,
+      "artistes": "Lars Horntveth",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-04",
+      "deezer": "4294241",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Glasgow",
+      "2eme_date": "08-Dec-13",
+      "2eme_date_timestamp": 1386460800,
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Optimo",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_salle": "Ubu",
+      "1ere_date": "03-Dec-04",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1100559600,
+      "origine_ville1": "Rennes",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_date": "15-Nov-04",
+      "deezer": "265934",
+      "spotify": "spotify:album:7lgCWHULqYjQyN0fUd2gAM",
+      "1ere_date_timestamp": 1100214000,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "03-Dec-04",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "27-Nov-04",
+      "3eme_date_timestamp": 1101596400,
+      "4eme_date_timestamp": 1102114800,
+      "2eme_salle": "Le Chabada, Angers",
+      "3eme_salle": "Salle municipale, Bazouges-la-Pérouse",
+      "artistes": "Psykick Lyrikah",
+      "1ere_salle": "La Passerelle, Saint-Brieuc",
+      "1ere_date": "11-Nov-04",
+      "4eme_salle": "Village"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Helsinki",
+      "spotify": "spotify:album:7JYrQl03AvgrIfd2oyNEfk",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Redrama",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-04",
+      "deezer": "314402",
+      "origine_pays1": "Finlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.2713520963,
+        64.496025362
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Strasbourg",
+      "spotify": "spotify:album:1SPL1QX2K0f1AxsAjf8T3X",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Rodolphe Burger & Erik Marchand",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "deezer": "41939",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Wroclaw",
+      "spotify": "spotify:album:79xgGrSQ9070fGJf0ipwb8",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Skalpel",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "deezer": "61467212",
+      "origine_pays1": "Pologne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.3943576278,
+        52.1248371866
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Tali",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "origine_pays1": "Nouvelle-Zélande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        171.462581036,
+        -41.8294535363
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Stockholm",
+      "spotify": "spotify:album:3EfRjYnoNrTohOPCjVFhR5",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Teddybears STHML",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-04",
+      "deezer": "52060522",
+      "origine_pays1": "Suède"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.7542843545,
+        62.777378402
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:1vWLGXDwkgaRsVrYxgip3i",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "The Infadels",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-04",
+      "deezer": "14304288",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1354834800,
+      "edition": "26èmes Rencontres Trans Musicales",
+      "deezer": "357404",
+      "spotify": "spotify:album:1GJ2Gt5HiLFXOU9k0ziHV5",
+      "1ere_date_timestamp": 1102114800,
+      "origine_pays1": "France",
+      "2eme_date": "06-Dec-12",
+      "origine_ville1": "Dijon",
+      "2eme_salle": "Parc des Expositions - Hall 9",
+      "artistes": "Vitalic",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "1ere_date": "03-Dec-04"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Mexico",
+      "spotify": "spotify:album:0Kr3xaQL19etIa3VEuXiMD",
+      "1ere_date_timestamp": 1102028400,
+      "artistes": "Wakal",
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-04",
+      "deezer": "267217",
+      "origine_pays1": "Mexique"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -102.53036366,
+        23.9489236523
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:11cPheQvTI1nwp251yPlC3",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "!!!",
+      "1ere_salle": "Liberté Bas",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "deezer": "13258445",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "Aï",
+      "1ere_salle": "Liberté Haut",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1006902000,
+      "origine_ville1": "Marseille",
+      "column_48": "La Cité",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "6eme_date": "06-Dec-06",
+      "6eme_date_timestamp": 1165446000,
+      "column_47": "1165532400",
+      "2eme_date": "27-Nov-01",
+      "1ere_date_timestamp": 975625200,
+      "6eme_salle": "La Cité",
+      "column_46": "07-Dec-06",
+      "4eme_date": "03-Dec-03",
+      "origine_pays1": "France",
+      "3eme_date": "04-Dec-02",
+      "5eme_date": "07-Dec-05",
+      "3eme_date_timestamp": 1039042800,
+      "4eme_date_timestamp": 1070492400,
+      "2eme_salle": "La Cité",
+      "3eme_salle": "Liberté Haut",
+      "artistes": "Big Buddha",
+      "1ere_salle": "Antipode",
+      "1ere_date": "30-Nov-00",
+      "5eme_date_timestamp": 1133996400,
+      "5eme_salle": "Parc des Expositions - Hall 5",
+      "4eme_salle": "Liberté Haut"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "Cherif M'baw",
+      "1ere_salle": "Antipode",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "origine_pays1": "Sénégal"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -14.4712861299,
+        14.3678611322
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:22rg5DTl0mW2JqG6fizYEQ",
+      "1ere_date_timestamp": 1070665200,
+      "artistes": "Cody ChesnuTT",
+      "1ere_salle": "La Cité",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-03",
+      "deezer": "7275802",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1070665200,
+      "artistes": "DJ Adams Roy",
+      "1ere_salle": "Antipode",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-03",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1070665200,
+      "artistes": "DJ Cutlass Supreme",
+      "1ere_salle": "Liberté Bas",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-03",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1070578800,
+      "origine_ville1": "Bordeaux",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "2eme_date": "04-Dec-03",
+      "deezer": "44211811",
+      "spotify": "spotify:album:5eDp5SHd4VKk4VIWODASfe",
+      "1ere_date_timestamp": 1070406000,
+      "1er_projet_atm": "Création",
+      "2eme_projet": "Création",
+      "origine_pays1": "France",
+      "3eme_date": "05-Dec-03",
+      "3eme_date_timestamp": 1070665200,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "Eiffel",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "02-Dec-03"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Baltimore",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "Maurice Fulton",
+      "1ere_salle": "Liberté Haut",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Montréal",
+      "1ere_date_timestamp": 1070665200,
+      "artistes": "Melissa Auf Der Maur",
+      "1ere_salle": "La Cité",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-03",
+      "origine_pays1": "Canada"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.2945373672,
+        61.3765600742
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "spotify": "spotify:track:1lIiCg57EuWoQtxOODMyeT",
+      "1ere_date_timestamp": 1070492400,
+      "artistes": "Metal Urbain",
+      "1ere_salle": "Liberté Haut",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-03",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1069887600,
+      "origine_ville1": "Nantes",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "2eme_date": "26-Nov-03",
+      "deezer": "46158",
+      "spotify": "spotify:album:21CX69g0goJ40YLPqU9s6g",
+      "1ere_date_timestamp": 1069714800,
+      "1er_projet_atm": "Tournée des Trans",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "04-Dec-03",
+      "3eme_date_timestamp": 1070578800,
+      "2eme_salle": "L'Omnibus, Saint-Malo",
+      "3eme_salle": "Village",
+      "artistes": "Mix City",
+      "1ere_salle": "L'Olympic, Nantes",
+      "1ere_date": "24-Nov-03"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1070060400,
+      "edition": "25èmes Rencontres Trans Musicales",
+      "2eme_date": "28-Nov-03",
+      "1ere_date_timestamp": 1069801200,
+      "1er_projet_atm": "Tournée des Trans",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "05-Dec-03",
+      "3eme_date_timestamp": 1070665200,
+      "origine_ville1": "Saint-Brieuc",
+      "2eme_salle": "Run Ar Puns, Châteaulin",
+      "3eme_salle": "Village",
+      "artistes": "Sitronapoo",
+      "1ere_salle": "Ubu",
+      "1ere_date": "25-Nov-03"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Dublin",
+      "spotify": "spotify:album:4JfSBKHfuyiO5WzjQSEK1t",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "The Thrills",
+      "1ere_salle": "Liberté Bas",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "deezer": "302423",
+      "origine_pays1": "Irlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.14541782157,
+        53.177727454
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Philadelphie",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "Ursula Rucker",
+      "1ere_salle": "La Cité",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "La Havane",
+      "spotify": "spotify:album:3vl11mVSVzyS6OQvn4BaOM",
+      "1ere_date_timestamp": 1070578800,
+      "artistes": "William Vivanco",
+      "1ere_salle": "Antipode",
+      "edition": "25èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-03",
+      "deezer": "6533703",
+      "origine_pays1": "Cuba"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -79.03529044,
+        21.62531027
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Cincinnati",
+      "spotify": "spotify:album:3yVWErj0nR6FuimmXh24Nz",
+      "1ere_date_timestamp": 1039129200,
+      "artistes": "Boom Bip",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-02",
+      "deezer": "14623760",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1039129200,
+      "edition": "24èmes Rencontres Trans Musicales",
+      "2eme_date": "05-Dec-02",
+      "1ere_date_timestamp": 1037746800,
+      "1er_projet_atm": "Tournée des Trans",
+      "origine_pays1": "France",
+      "origine_ville1": "Paris",
+      "2eme_salle": "Liberté Haut",
+      "artistes": "Bobby Hardcore Liberace",
+      "1ere_salle": "Batofar, Paris",
+      "1ere_date": "19-Nov-02"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Sheffield",
+      "1ere_date_timestamp": 1039215600,
+      "artistes": "Fat Truckers",
+      "1ere_salle": "Antipode",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-02",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1039042800,
+      "edition": "24èmes Rencontres Trans Musicales",
+      "deezer": "1343391",
+      "spotify": "spotify:album:52HHuagQ7i3e0kr9QUGnP6",
+      "1ere_date_timestamp": 1037746800,
+      "origine_pays1": "France",
+      "2eme_date": "04-Dec-02",
+      "origine_ville1": "Paris",
+      "2eme_salle": "Antipode",
+      "artistes": "Ginger Ale",
+      "1ere_salle": "Batofar, Paris",
+      "1ere_date": "19-Nov-02"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "San Francisco",
+      "1ere_date_timestamp": 1039215600,
+      "artistes": "Gold Chains",
+      "1ere_salle": "Antipode",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-02",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:7lvkfeGllsua86JXtLunNG",
+      "1ere_date_timestamp": 1039215600,
+      "artistes": "J-Live",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-02",
+      "deezer": "6581122",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Brighton",
+      "1ere_date_timestamp": 1039215600,
+      "artistes": "Krafty Kuts & A.Skillz",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-02",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:6aSk2vxoY3xtz7cXKuY9EL",
+      "1ere_date_timestamp": 1039129200,
+      "artistes": "LCD Soundsystem",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-02",
+      "deezer": "299584",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4OIdWi792Mycu5WrBvmWN1",
+      "1ere_date_timestamp": 1039042800,
+      "artistes": "Mercan Dede",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-02",
+      "deezer": "1015940",
+      "origine_pays1": "Turquie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        35.1672670068,
+        39.0610307894
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Washington DC",
+      "spotify": "spotify:album:3acZy0MqbDAet78jYKYOyR",
+      "1ere_date_timestamp": 1039129200,
+      "artistes": "Meshell Ndegeocello",
+      "1ere_salle": "Liberté Bas",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-02",
+      "deezer": "511928",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4tTOShvZzsr8XNAWvagh4m",
+      "1ere_date_timestamp": 1039042800,
+      "artistes": "Pat'Jaune",
+      "1ere_salle": "La Cité",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-02",
+      "deezer": "616782",
+      "origine_pays1": "France (La Réunion)"
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:0NFLXpfr91bCK0arNQ76Nu",
+      "1ere_date_timestamp": 1039129200,
+      "artistes": "Radio 4",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-02",
+      "deezer": "1343392",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Toulouse",
+      "spotify": "spotify:album:7qqDNKwky8w6CX3jXJ9E3F",
+      "1ere_date_timestamp": 1039042800,
+      "artistes": "Renaud Papillon Paravel",
+      "1ere_salle": "Antipode",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-02",
+      "deezer": "256807",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:5GYw4jQWG3NoaQutg3OufP",
+      "1ere_date_timestamp": 1039042800,
+      "artistes": "Terranova",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-02",
+      "deezer": "410911",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Omaha",
+      "spotify": "spotify:album:5eAMAoR0z5VDJLqkW8FEPo",
+      "1ere_date_timestamp": 1039129200,
+      "artistes": "The Faint",
+      "1ere_salle": "Liberté Haut",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-02",
+      "deezer": "7509672",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "1ere_date_timestamp": 1039215600,
+      "artistes": "The Juan MacLean",
+      "1ere_salle": "Liberté Bas",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-02",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:1EozNWj9YemnvgrpvqHpca",
+      "1ere_date_timestamp": 1007161200,
+      "artistes": "Aesop Rock",
+      "1ere_salle": "Liberté Haut",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-01",
+      "deezer": "165766",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:1wRPw4ubiMYz481M6qfvF3",
+      "1ere_date_timestamp": 1007074800,
+      "artistes": "Atom Rhumba",
+      "1ere_salle": "Antipode",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-01",
+      "deezer": "7482330",
+      "origine_pays1": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.65226540732,
+        40.2274328729
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Los Angeles",
+      "1ere_date_timestamp": 1007074800,
+      "artistes": "Breakestra",
+      "1ere_salle": "Liberté Bas",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-01",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1006988400,
+      "artistes": "Dahlia",
+      "1ere_salle": "Village",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "28-Nov-01",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1007161200,
+      "artistes": "DJ Eyed Spoon",
+      "1ere_salle": "La Cité",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-01",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Monterrey",
+      "spotify": "spotify:album:0LAbqDb2DQIiYWGuwLKY4m",
+      "1ere_date_timestamp": 1007074800,
+      "artistes": "Kinky",
+      "1ere_salle": "Liberté Haut",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-01",
+      "deezer": "52915952",
+      "origine_pays1": "Mexique"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -102.53036366,
+        23.9489236523
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Atlanta",
+      "spotify": "spotify:album:3ZGAli8Y8GfxHgYcY5LLsQ",
+      "1ere_date_timestamp": 1007161200,
+      "artistes": "Russell Gunn & Ethnomusicology",
+      "1ere_salle": "Liberté Haut",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-01",
+      "deezer": "12636514",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1006988400,
+      "artistes": "Soul Jazz DJ's",
+      "1ere_salle": "Liberté Bas",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "28-Nov-01",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1007074800,
+      "artistes": "The Strut Players DJ's",
+      "1ere_salle": "Liberté Bas",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-01",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "El Paso",
+      "spotify": "spotify:album:0BrySJeJIdjsGkJDn2nXbc",
+      "1ere_date_timestamp": 975625200,
+      "artistes": "At The Drive-In",
+      "1ere_salle": "Liberté Bas",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-00",
+      "deezer": "6314529",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "spotify": "spotify:album:5LtrooIN2nte5DLxWBNQnv",
+      "1ere_date_timestamp": 975711600,
+      "artistes": "Bertrand Burgalat",
+      "1ere_salle": "La Cité",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-00",
+      "deezer": "737058",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Montreuil",
+      "artistes": "Choréam",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:0Ea8IGwKkBA7D97FLj0vmD",
+      "1ere_date_timestamp": 975711600,
+      "artistes": "Computer Jockeys",
+      "1ere_salle": "Liberté Bas",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-00",
+      "deezer": "14949571",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "spotify": "spotify:album:7GwQGfO3ftK3mcn5t2OlYU",
+      "1ere_date_timestamp": 975538800,
+      "artistes": "DJ Marrrtin & DJ Junkaz Lou",
+      "1ere_salle": "Liberté Bas",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-00",
+      "deezer": "118342",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Marseille",
+      "spotify": "spotify:album:1zg29tAsj2qXrRmrUCQMvU",
+      "1ere_date_timestamp": 975531600,
+      "artistes": "Dupain",
+      "1ere_salle": "La Cité",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-00",
+      "deezer": "612844",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Sète",
+      "1ere_date_timestamp": 975522300,
+      "artistes": "Général Alcazar",
+      "1ere_salle": "La Cité",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-00",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 975711600,
+      "edition": "22èmes Rencontres Trans Musicales",
+      "deezer": "1107848",
+      "spotify": "spotify:album:5Uh4QT9bALr9OkwKqn58fO",
+      "1ere_date_timestamp": 975625200,
+      "origine_pays1": "France",
+      "2eme_date": "01-Dec-00",
+      "origine_ville1": "Paris",
+      "2eme_salle": "Aire Libre",
+      "artistes": "Herman Düne",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "30-Nov-00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 975711600,
+      "artistes": "Louie Austen",
+      "1ere_salle": "Antipode",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-00",
+      "deezer": "1103400",
+      "origine_pays1": "Autriche"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        14.1305444711,
+        47.5857571625
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Leeds",
+      "1ere_date_timestamp": 975625200,
+      "artistes": "LSK",
+      "1ere_salle": "Liberté Haut",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-00",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville2": "Berlin",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "deezer": "13188658",
+      "spotify": "spotify:album:1l78DZnf8m8Uymib9EV6QV",
+      "1ere_date_timestamp": 975538800,
+      "1er_projet_atm": "Quartiers en Trans",
+      "origine_pays1": "France",
+      "origine_pays2": "Allemagne",
+      "origine_ville1": "Paris",
+      "artistes": "Olaf Hund",
+      "1ere_salle": "Villejean",
+      "1ere_date": "29-Nov-00"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 975452400,
+      "artistes": "Ou@rz@z@te System",
+      "1ere_salle": "Village",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "28-Nov-00",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4Og6PAmVEryAPAy4haXLRV",
+      "1ere_date_timestamp": 975538800,
+      "artistes": "Salmonella Dub",
+      "1ere_salle": "Liberté Haut",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "29-Nov-00",
+      "deezer": "9808680",
+      "origine_pays1": "Nouvelle-Zélande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        171.462581036,
+        -41.8294535363
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "1ere_date_timestamp": 975625200,
+      "artistes": "Saul Williams",
+      "1ere_salle": "Liberté Haut",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-00",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 975625200,
+      "artistes": "Toups Bebey & Pact",
+      "1ere_salle": "Antipode",
+      "edition": "22èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-00",
+      "origine_pays1": "Cameroun"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        12.7370844447,
+        5.69302138386
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bretagne",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Añjel I.K.",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Sacramento",
+      "spotify": "spotify:album:1fF8kYX49s5Ufv4XEY5sjW",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Blink 182",
+      "1ere_salle": "Villejean",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "1er_projet_atm": "Quartiers en Trans",
+      "deezer": "121913",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:5PF4UySFhyf45ylVMwwSk9",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Def Cut",
+      "1ere_salle": "Liberté Haut",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "deezer": "1414050",
+      "origine_pays1": "Suisse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.21591266153,
+        46.7990859221
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:25VdUCMxjTzwj7MCXpdP5D",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Étant Donnés & Thee Majesty",
+      "1ere_salle": "La Cité",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "deezer": "14319290",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Saint Paul",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Freddy Fresh",
+      "1ere_salle": "Liberté Haut",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Jaka Dit Jay & Cyril Man",
+      "1ere_salle": "Liberté Haut",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:5yp07Tm5GCl90cyWPTMbMo",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Le Hammond Inferno",
+      "1ere_salle": "Liberté Haut",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "deezer": "214988",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Le Tone",
+      "1ere_salle": "La Cité",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:54WKITcLnKGhyJqdUjB7h0",
+      "1ere_date_timestamp": 944262000,
+      "artistes": "Luke Vibert & BJ Cole",
+      "1ere_salle": "Antipode",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-99",
+      "deezer": "14396420",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:50DkoLL4ArRVXhWx9ssQSe",
+      "1ere_date_timestamp": 944175600,
+      "artistes": "Macy Gray",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-99",
+      "deezer": "1398762",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Mannheim",
+      "spotify": "spotify:album:0kb8nYSSvUj8FEaoL56Yp3",
+      "1ere_date_timestamp": 944175600,
+      "artistes": "Mardi Gras BB",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-99",
+      "deezer": "53157502",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 944175600,
+      "artistes": "Paranda",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-99",
+      "origine_pays1": "Bélize"
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:6fITuym1MIN5PmpVHk4xyQ",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Sona Fariq",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "deezer": "92946",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Perpignan",
+      "spotify": "spotify:album:6g4kWluFYbj2TJO9kzn8Sa",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Tekameli",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "deezer": "98205",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bordeaux",
+      "spotify": "spotify:album:6Sunn3RIny7TUEn0yRFiwg",
+      "1ere_date_timestamp": 944089200,
+      "artistes": "Zimpala : Bnx & Walter",
+      "1ere_salle": "Liberté Bas",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-99",
+      "deezer": "1311952",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Amsterdam",
+      "spotify": "spotify:album:0pOjKVpLsZXmW0WNB9NBut",
+      "1ere_date_timestamp": 944175600,
+      "artistes": "Zuco 103",
+      "1ere_salle": "Liberté Haut",
+      "edition": "21èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-99",
+      "deezer": "10636552",
+      "origine_pays1": "Pays-Bas"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.22159177132,
+        52.0724168637
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1354834800,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "2eme_date": "06-Dec-12",
+      "1ere_date_timestamp": 1353711600,
+      "1er_projet_atm": "Tournée des Trans",
+      "origine_pays1": "France",
+      "origine_ville1": "Rennes",
+      "2eme_salle": "Parc des Expositions - Hall 4",
+      "artistes": "Astrodynamics",
+      "1ere_salle": "Le Coatelan, Morlaix",
+      "1ere_date": "23-Nov-12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:2RKfwa2QkUktrCEr0nwrBU",
+      "1ere_date_timestamp": 1354921200,
+      "artistes": "Avondale Airforce",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-12",
+      "deezer": "2939541",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1354834800,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "deezer": "3552541",
+      "spotify": "spotify:album:2ATkOtX4hRkouQgBL8U4Hl",
+      "1ere_date_timestamp": 1354748400,
+      "2eme_projet": "Les Trans dans les Prisons",
+      "origine_pays1": "Royaume-Uni",
+      "2eme_date": "06-Dec-12",
+      "origine_ville1": "Leeds",
+      "2eme_salle": "Centre Pénitentiaire des Hommes",
+      "artistes": "China rats",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "1ere_date": "05-Dec-12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Caen",
+      "spotify": "spotify:album:65uiX9vC5EOcnwpOF6WCFK",
+      "1ere_date_timestamp": 1354748400,
+      "artistes": "Clockwork of the Moon",
+      "1ere_salle": "L'Etage",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-12",
+      "1er_projet_atm": "Focus",
+      "deezer": "6109136",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:7IuOIiApW9AMUCK6QDci44",
+      "1ere_date_timestamp": 1354834800,
+      "artistes": "First Lady",
+      "1ere_salle": "L'Etage",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-12",
+      "deezer": "6868736",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1355007600,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "deezer": "1266412",
+      "spotify": "spotify:album:2B0EYvz4Yzygo81n8qALMW",
+      "1ere_date_timestamp": 1354921200,
+      "1er_projet_atm": "Les Trans dans les Prisons",
+      "origine_pays1": "France",
+      "2eme_date": "08-Dec-12",
+      "origine_ville1": "Saintes",
+      "2eme_salle": "Ubu",
+      "artistes": "Frànçois & The Atlas Mountains",
+      "1ere_salle": "Centre Pénitentiaire des Femmes",
+      "1ere_date": "07-Dec-12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1354921200,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "2eme_date": "07-Dec-12",
+      "1ere_date_timestamp": 1354834800,
+      "1er_projet_atm": "Création",
+      "2eme_projet": "Création",
+      "origine_pays1": "France",
+      "3eme_date": "08-Dec-12",
+      "3eme_date_timestamp": 1355007600,
+      "2eme_salle": "Opéra",
+      "3eme_salle": "Opéra",
+      "artistes": "How We Tried",
+      "1ere_salle": "Opéra",
+      "1ere_date": "06-Dec-12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville2": "Turin",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "deezer": "5987831",
+      "spotify": "spotify:album:7LEDX0i13K7nABp8CVkvjl",
+      "1ere_date_timestamp": 1354921200,
+      "origine_pays1": "France",
+      "origine_pays2": "Italie",
+      "origine_ville1": "Bordeaux",
+      "artistes": "J.C. Satàn",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "07-Dec-12",
+      "nom_spectacle_ou_soiree": "Iceberg présente High On Democracy"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1354748400,
+      "artistes": "Julien Tiné",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-12",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1292022000,
+      "origine_ville1": "Saint-Malo",
+      "column_48": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "6eme_date": "07-Dec-13",
+      "6eme_date_timestamp": 1386374400,
+      "column_47": "1417706311",
+      "2eme_date": "10-Dec-10",
+      "1ere_date_timestamp": 1259881200,
+      "6eme_salle": "Parc des Expositions - Hall 4",
+      "column_46": "04-Dec-14",
+      "4eme_date": "06-Dec-12",
+      "origine_pays1": "France",
+      "3eme_date": "30-Nov-11",
+      "5eme_date": "07-Dec-12",
+      "3eme_date_timestamp": 1322694000,
+      "4eme_date_timestamp": 1354834800,
+      "2eme_salle": "Parc des Expositions - Hall 4",
+      "3eme_salle": "Liberté Bas",
+      "artistes": "Kosmo Pilot",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "1ere_date": "03-Dec-09",
+      "5eme_date_timestamp": 1354921200,
+      "5eme_salle": "Parc des Expositions - Hall 4",
+      "4eme_salle": "Parc des Expositions - Hall 9"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:648iPcoxyS9qS6GWl0DDEo",
+      "1ere_date_timestamp": 1354834800,
+      "artistes": "Maya Jane Coles",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-12",
+      "deezer": "1626808",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:2tvHcQfvtXvmFHIGyBiPVt",
+      "1ere_date_timestamp": 1354921200,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "artistes": "Melody's Echo Chamber",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "origine_pays1": "France",
+      "1ere_date": "07-Dec-12",
+      "deezer": "5823601",
+      "origine_pays2": "Australie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:3bMpgbYFTuHDM6oY63BLxK",
+      "1ere_date_timestamp": 1354748400,
+      "artistes": "Netsky",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-12",
+      "deezer": "81801502",
+      "origine_pays1": "Belgique"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.63966996313,
+        50.6375465936
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date": "08-Dec-12",
+      "2eme_date_timestamp": 1355007600,
+      "1ere_date_timestamp": 1354748400,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "artistes": "Nin Petit",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "origine_pays1": "Royaume-Uni",
+      "2eme_salle": "Ubu",
+      "1ere_date": "05-Dec-12",
+      "origine_pays2": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:0dnGOJXcpTVrJiKyxO7r1m",
+      "1ere_date_timestamp": 1354748400,
+      "artistes": "Nunna Daul Isunsyi",
+      "1ere_salle": "Aire Libre",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-12",
+      "nom_spectacle_ou_soiree": "Iceberg présente High On Democracy",
+      "deezer": "14029416",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Cape Town",
+      "spotify": "spotify:album:5jWlhqDFB0YrXHm1kTR8FO",
+      "1ere_date_timestamp": 1354834800,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "artistes": "Petite Noir",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "origine_pays1": "Afrique du Sud",
+      "1ere_date": "06-Dec-12",
+      "deezer": "4397801",
+      "origine_pays2": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.087310262,
+        -29.001024687
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:2ge4Q7BJcKSaamy7cM6p0S",
+      "1ere_date_timestamp": 1354921200,
+      "artistes": "Red Sunrise",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-12",
+      "deezer": "6081029",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bruxelles",
+      "1ere_date_timestamp": 1354921200,
+      "artistes": "Shazzula",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-12",
+      "origine_pays1": "Belgique"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.63966996313,
+        50.6375465936
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1353106800,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "2eme_date": "16-Nov-12",
+      "1ere_date_timestamp": 1352934000,
+      "1er_projet_atm": "Tournée des Trans",
+      "2eme_projet": "Kaléidoscope",
+      "origine_pays1": "France",
+      "origine_pays2": "Etats-Unis",
+      "3eme_date": "07-Dec-12",
+      "3eme_date_timestamp": 1354921200,
+      "2eme_salle": "Centre Culturel Jovence, Louvigné-du-Désert",
+      "3eme_salle": "Parc des Expositions - Hall 4",
+      "artistes": "St. Lô",
+      "1ere_salle": "Ubu",
+      "1ere_date": "14-Nov-12"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Douarnenez",
+      "spotify": "spotify:album:7jvq41cvu4O6wMdsziTTYX",
+      "1ere_date_timestamp": 1354921200,
+      "artistes": "The Octopus",
+      "1ere_salle": "L'Etage",
+      "edition": "34èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-12",
+      "1er_projet_atm": "Focus",
+      "deezer": "6136620",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4e0s9NinQo02X4exDDmW65",
+      "1ere_date_timestamp": 1354921200,
+      "edition": "34èmes Rencontres Trans Musicales",
+      "artistes": "TNGHT",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "origine_pays1": "Canada",
+      "1ere_date": "07-Dec-12",
+      "deezer": "5060871",
+      "origine_pays2": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.2945373672,
+        61.3765600742
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1322866800,
+      "edition": "33èmes Rencontres Trans Musicales",
+      "deezer": "1260975",
+      "spotify": "spotify:album:24HBcWhtUfVnKxFV3yqk1Z",
+      "1ere_date_timestamp": 1321484400,
+      "origine_pays1": "France",
+      "2eme_date": "02-Dec-11",
+      "origine_ville1": "Nantes",
+      "2eme_salle": "La Cité",
+      "artistes": "Backpack Jax",
+      "1ere_salle": "Ubu",
+      "1ere_date": "16-Nov-11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:3E9AUgKAHCIjbI5GRjWxQb",
+      "1ere_date_timestamp": 1322866800,
+      "artistes": "Cardopusher",
+      "origine_ville1": "Espagne (Barcelone)",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-11",
+      "deezer": "1165573",
+      "origine_pays1": "Venezuela"
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1322866800,
+      "artistes": "Cie Engrenage - I Feel Good",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-11",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Reykjavik",
+      "1ere_date_timestamp": 1322866800,
+      "artistes": "Epic Rain",
+      "1ere_salle": "La Cité",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-11",
+      "origine_pays1": "Islande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -18.5967761911,
+        64.9981164128
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1321570800,
+      "artistes": "Compagnie Ethadam",
+      "1ere_salle": "Espace Bel Air, Saint-Aubin-du-Cormier",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "17-Nov-11",
+      "1er_projet_atm": "Danse Hip-Hop",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Cordoue",
+      "spotify": "spotify:album:3qxQaxt7sLjn5XnVsEQ4uR",
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Fuel Fandango",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-11",
+      "deezer": "1134255",
+      "origine_pays1": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.65226540732,
+        40.2274328729
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:2QpwHHo8TyrYAJ6dGgW91Z",
+      "1ere_date_timestamp": 1322866800,
+      "artistes": "Fukkk Offf",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-11",
+      "deezer": "1509209",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:6YMWFAElyJAua6GRVEsrFW",
+      "1ere_date_timestamp": 1322866800,
+      "artistes": "Guadalupe Plata",
+      "1ere_salle": "Le 4 Bis",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-11",
+      "1er_projet_atm": "Focus Européen",
+      "deezer": "5820131",
+      "origine_pays1": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.65226540732,
+        40.2274328729
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Glasgow",
+      "spotify": "spotify:album:0LgBWn84XoBjvtf7xwnrYK",
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Haight-Ashbury",
+      "1ere_salle": "La Cité",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-11",
+      "deezer": "86797102",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:1maKK0LZS4kKqJmrDPMMU5",
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Hollie Cook",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-11",
+      "deezer": "7241921",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1322866800,
+      "edition": "33èmes Rencontres Trans Musicales",
+      "deezer": "13998384",
+      "spotify": "spotify:album:3Qe3fZ7QYGFrZbFNIxnVsw",
+      "1ere_date_timestamp": 1322780400,
+      "origine_pays1": "Royaume-Uni",
+      "2eme_date": "02-Dec-11",
+      "origine_ville1": "Manchester",
+      "2eme_salle": "Parc des Expositions - Hall 3",
+      "artistes": "Janice Graham Band",
+      "1ere_salle": "Centre Culturel Cesson Sévigné",
+      "1ere_date": "01-Dec-11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bergen",
+      "spotify": "spotify:album:1jtMXshMgmrqFyi2qC2Gqp",
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Kakkmaddafakka",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-11",
+      "deezer": "7689011",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "3eme_salle": "Aire Libre",
+      "3eme_date": "01-Dec-11",
+      "2eme_date_timestamp": 1322694000,
+      "1ere_date_timestamp": 1322607600,
+      "3eme_date_timestamp": 1322780400,
+      "artistes": "Kütu Folk - The Band",
+      "2eme_date": "30-Nov-11",
+      "1ere_salle": "Aire Libre",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "2eme_salle": "Aire Libre",
+      "4eme_date_timestamp": 1322866800,
+      "1ere_date": "29-Nov-11",
+      "1er_projet_atm": "Création",
+      "4eme_date": "02-Dec-11",
+      "2eme_projet": "Création",
+      "4eme_salle": "Aire Libre"
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1322089200,
+      "origine_ville1": "Rennes",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "2eme_date": "23-Nov-11",
+      "deezer": "1481193",
+      "spotify": "spotify:album:4YEDtwuZuNgwxZtLYa05eT",
+      "1ere_date_timestamp": 1320879600,
+      "1er_projet_atm": "Kaléidoscope",
+      "4eme_date": "02-Dec-11",
+      "2eme_projet": "Tournée des trans",
+      "origine_pays1": "France",
+      "3eme_date": "24-Nov-11",
+      "3eme_date_timestamp": 1322175600,
+      "4eme_date_timestamp": 1322866800,
+      "2eme_salle": "Le Cargö, Caen",
+      "3eme_salle": "Le VIP, Saint-Nazaire",
+      "artistes": "Mein Sohn William",
+      "1ere_salle": "Théâtre de Poche, Hédé",
+      "1ere_date": "09-Nov-11",
+      "4eme_salle": "Ubu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date": "02-Dec-11",
+      "2eme_date_timestamp": 1322866800,
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Pockemon Crew",
+      "1ere_salle": "Le Triangle",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "2eme_salle": "Parc des Expositions - Hall 4",
+      "1ere_date": "01-Dec-11",
+      "1er_projet_atm": "Danse Hip-Hop",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1322953200,
+      "edition": "33èmes Rencontres Trans Musicales",
+      "deezer": "508812",
+      "spotify": "spotify:album:1S8JKv2gwdOdSziOLLn3Js",
+      "1ere_date_timestamp": 1322866800,
+      "origine_pays1": "Canada",
+      "2eme_date": "03-Dec-11",
+      "origine_ville1": "Saskatoon",
+      "2eme_salle": "Aire Libre",
+      "artistes": "Soso",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "02-Dec-11"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.2945373672,
+        61.3765600742
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "spotify": "spotify:album:2oW71DiHhA9pdWySrTpEZA",
+      "1ere_date_timestamp": 1322780400,
+      "artistes": "Souleance",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-11",
+      "deezer": "9721980",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1322089200,
+      "origine_ville1": "Rennes",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "2eme_date": "23-Nov-11",
+      "deezer": "868679",
+      "spotify": "spotify:album:7ex05TlzSKswatF6W10ziT",
+      "1ere_date_timestamp": 1321052400,
+      "1er_projet_atm": "Kaléidoscope",
+      "4eme_date": "01-Dec-11",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "24-Nov-11",
+      "3eme_date_timestamp": 1322175600,
+      "4eme_date_timestamp": 1322780400,
+      "2eme_salle": "Le Cargö, Caen",
+      "3eme_salle": "L'Echonova, Saint-Avé",
+      "artistes": "Splash Wave",
+      "1ere_salle": "Centre Culturel de l'Ecusson, Josselin",
+      "1ere_date": "11-Nov-11",
+      "4eme_salle": "Ubu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Copenhague",
+      "spotify": "spotify:album:7na90nLfkUu3rou6EEcwvs",
+      "1ere_date_timestamp": 1322694000,
+      "artistes": "Vinnie Who",
+      "1ere_salle": "Liberté Bas",
+      "edition": "33èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-11",
+      "deezer": "1027278",
+      "origine_pays1": "Danemark"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.0502290036,
+        55.9659213307
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1291935600,
+      "artistes": "Compagnie Cool Spirit",
+      "1ere_salle": "Le Triangle",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "1ere_date": "09-Dec-10",
+      "1er_projet_atm": "Danse Hip-Hop"
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1292022000,
+      "artistes": "DJ Ced",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "1ere_date": "10-Dec-10",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Manchester",
+      "spotify": "spotify:album:76w6V3Drg6Voo9JveBZEir",
+      "1ere_date_timestamp": 1291849200,
+      "artistes": "Egyptian Hip Hop",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-10",
+      "deezer": "645583",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Kansas City",
+      "spotify": "spotify:album:7MvSB0JTdtl1pSwZcgvYQX",
+      "1ere_date_timestamp": 1291935600,
+      "artistes": "Janelle Monae",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "1ere_date": "09-Dec-10",
+      "deezer": "550601",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1194476400,
+      "origine_ville1": "Rennes",
+      "column_48": "Le Normandy, Saint-Lô",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "column_45": "Tournée des Trans",
+      "6eme_date_timestamp": 1291158000,
+      "column_47": "1291417200",
+      "2eme_date": "07-Nov-07",
+      "1ere_date_timestamp": 1194044400,
+      "6eme_salle": "Le Chabada, Angers",
+      "6eme_date": "30-Nov-10",
+      "column_46": "03-Dec-10",
+      "1er_projet_atm": "Kaléidoscope",
+      "4eme_date": "14-Nov-07",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "09-Nov-07",
+      "5eme_date": "07-Dec-07",
+      "3eme_date_timestamp": 1194649200,
+      "4eme_date_timestamp": 1195081200,
+      "2eme_salle": "La Carène, Brest",
+      "3eme_salle": "Le VIP, Saint-Nazaire",
+      "artistes": "Lady Jane",
+      "1ere_salle": "Salle municipale, Bazouges-la-Pérouse",
+      "1ere_date": "02-Nov-07",
+      "5eme_date_timestamp": 1197068400,
+      "5eme_salle": "Parc des Expositions - Hall 3",
+      "4eme_salle": "L'Olympic, Nantes"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:1xlyG4VH7qEx1tNVXDtcmr",
+      "1ere_date_timestamp": 1291849200,
+      "artistes": "Magnetic Man",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-10",
+      "deezer": "668360",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "3eme_salle": "Aire Libre",
+      "3eme_date": "09-Dec-10",
+      "2eme_date_timestamp": 1291849200,
+      "5eme_date": "11-Dec-10",
+      "1ere_date_timestamp": 1291762800,
+      "3eme_date_timestamp": 1291935600,
+      "edition": "32èmes Rencontres Trans Musicales",
+      "artistes": "Mujuice",
+      "4eme_date_timestamp": 1292022000,
+      "1ere_salle": "Aire Libre",
+      "origine_pays1": "Russie",
+      "2eme_salle": "Aire Libre",
+      "5eme_date_timestamp": 1292108400,
+      "1ere_date": "07-Dec-10",
+      "2eme_date": "08-Dec-10",
+      "4eme_date": "10-Dec-10",
+      "5eme_salle": "Aire Libre",
+      "4eme_salle": "Aire Libre"
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1291330800,
+      "origine_ville1": "Rennes",
+      "edition": "32èmes Rencontres Trans Musicales",
+      "2eme_date": "02-Dec-10",
+      "deezer": "7315587",
+      "spotify": "spotify:album:1AjwHnGwyQNFWDT2T6NnfR",
+      "1ere_date_timestamp": 1291244400,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "10-Dec-10",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "03-Dec-10",
+      "3eme_date_timestamp": 1291417200,
+      "4eme_date_timestamp": 1292022000,
+      "2eme_salle": "La Carène, Brest",
+      "3eme_salle": "Le Fuzz'Yon, La Roche-sur-Yon",
+      "artistes": "Sudden Death of Stars",
+      "1ere_salle": "L'Olympic, Nantes",
+      "1ere_date": "01-Dec-10",
+      "4eme_salle": "L'Etage"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1291935600,
+      "edition": "32èmes Rencontres Trans Musicales",
+      "deezer": "6518915",
+      "2eme_date": "09-Dec-10",
+      "1ere_date_timestamp": 1291849200,
+      "1er_projet_atm": "Les Trans dans les Prisons",
+      "origine_pays1": "Colombie",
+      "3eme_date": "10-Dec-10",
+      "3eme_date_timestamp": 1292022000,
+      "2eme_salle": "Parc des Expositions - Hall 9",
+      "3eme_salle": "Les Champs Libres",
+      "artistes": "Systema Solar",
+      "1ere_salle": "Centre Pénitentiaire des Femmes",
+      "1ere_date": "08-Dec-10"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.0836676571,
+        3.90962199445
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1259794800,
+      "5eme_date_timestamp": 1260054000,
+      "edition": "31èmes Rencontres Trans Musicales",
+      "2eme_date": "02-Dec-09",
+      "deezer": "15049927",
+      "spotify": "spotify:album:0u3tw7TR8o5eTx2Pc0XnFN",
+      "1ere_date_timestamp": 1259708400,
+      "4eme_date": "04-Dec-09",
+      "origine_pays1": "France",
+      "3eme_date": "03-Dec-09",
+      "5eme_date": "05-Dec-09",
+      "3eme_date_timestamp": 1259881200,
+      "4eme_date_timestamp": 1259967600,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "69",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "01-Dec-09",
+      "5eme_salle": "Aire Libre",
+      "4eme_salle": "Aire Libre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1259881200,
+      "edition": "31èmes Rencontres Trans Musicales",
+      "2eme_date": "03-Dec-09",
+      "1ere_date_timestamp": 1259794800,
+      "1er_projet_atm": "Création",
+      "2eme_projet": "Conférence-concert du Jeu de l'Ouïe",
+      "origine_pays1": "Inde",
+      "origine_pays2": "France",
+      "2eme_salle": "Les Champs Libres",
+      "artistes": "78 RPM Selector",
+      "1ere_salle": "L'Etage",
+      "1ere_date": "02-Dec-09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        79.6158935763,
+        22.8881002778
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New York",
+      "spotify": "spotify:album:7t3aiJVPfUDG6is6r11lFl",
+      "1ere_date_timestamp": 1259794800,
+      "artistes": "Abraham Inc.",
+      "1ere_salle": "Liberté Bas",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-09",
+      "deezer": "6623374",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "1ere_date_timestamp": 1259794800,
+      "artistes": "An Experiment On A Bird In The Air Pump",
+      "1ere_salle": "L'Etage",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-09",
+      "deezer": "423260",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Soweto",
+      "spotify": "spotify:album:4UKETvaiDcoj5hBXwPQWes",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "Blk Jks",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "7206750",
+      "origine_pays1": "Afrique du Sud"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        25.087310262,
+        -29.001024687
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:70PYUtf2q0kz3LqVkqQj2k",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "Danton Eeprom",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "487993",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Newcastle-upon-Tyne",
+      "spotify": "spotify:album:78jBDwI3YtNfZoU1mLJ7n2",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "Detroit Social Club",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "deezer": "610418",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:6g0ZT2v5OlSq7lybezmKYD",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "DJ Ride",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "12013882",
+      "origine_pays1": "Portugal"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.58679773073,
+        39.5879315668
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1259794800,
+      "artistes": "DJ Sandra",
+      "1ere_salle": "L'Etage",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-09",
+      "origine_pays1": "Russie"
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1258671600,
+      "origine_ville1": "Rennes",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "2eme_date": "19-Nov-09",
+      "deezer": "276440",
+      "spotify": "spotify:album:5xAHaulPmCyCTJDq2l6fYt",
+      "1ere_date_timestamp": 1258066800,
+      "1er_projet_atm": "Tournée des Trans",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "04-Dec-09",
+      "3eme_date_timestamp": 1259967600,
+      "2eme_salle": "Le Fuzz'Yon, La Roche-sur-Yon",
+      "3eme_salle": "Parc des Expositions - Hall 3",
+      "artistes": "Downtown Cuckoo",
+      "1ere_salle": "La Carène, Brest",
+      "1ere_date": "12-Nov-09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Stockholm",
+      "spotify": "spotify:album:0ixCVTYtBghqNKuGP1a9om",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "Fever Ray",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "deezer": "6762639",
+      "origine_pays1": "Suède"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.7542843545,
+        62.777378402
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1227308400,
+      "origine_ville1": "Caen",
+      "5eme_date_timestamp": 1228518000,
+      "edition": "30èmes Rencontres Trans Musicales",
+      "2eme_date": "21-Nov-08",
+      "deezer": "904477",
+      "6eme_date": "03-Dec-09",
+      "6eme_date_timestamp": 1259881200,
+      "spotify": "spotify:album:2OIPFXLzUjUiv8b4V4tR9B",
+      "1ere_date_timestamp": 1227135600,
+      "6eme_salle": "La Cité",
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "04-Dec-08",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "28-Nov-08",
+      "5eme_date": "05-Dec-08",
+      "3eme_date_timestamp": 1227913200,
+      "4eme_date_timestamp": 1228431600,
+      "2eme_salle": "Le Coatelan, Morlaix",
+      "3eme_salle": "Run Ar Puns, Châteaulin",
+      "artistes": "Gablé",
+      "1ere_salle": "Le 6 Par 4, Laval",
+      "1ere_date": "19-Nov-08",
+      "5eme_salle": "Ubu",
+      "4eme_salle": "Maison d'Arrêt des Hommes"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:3ZhKdCooG3IRKJAriZXg8T",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "Gaggle",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "deezer": "4082601",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date": "07-Dec-19",
+      "2eme_date_timestamp": 1575676800,
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "Groove Control",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "2eme_salle": "Parc des Expositions - Hall 8",
+      "1ere_date": "04-Dec-09",
+      "1er_projet_atm": "Danse Hip-Hop",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1259881200,
+      "edition": "31èmes Rencontres Trans Musicales",
+      "deezer": "12103278",
+      "spotify": "spotify:album:4JWi6L1LrqK8eRpLHxrJwF",
+      "1ere_date_timestamp": 1259794800,
+      "1er_projet_atm": "Les Trans dans les Prisons",
+      "origine_pays1": "Etats-Unis",
+      "2eme_date": "03-Dec-09",
+      "2eme_salle": "Parc des Expositions - Hall 3",
+      "artistes": "Jessie Evans",
+      "1ere_salle": "Centre Pénitentiaire des Femmes",
+      "1ere_date": "02-Dec-09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bordeaux",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "Les Associés Crew",
+      "1ere_salle": "Le Triangle",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "1er_projet_atm": "Danse Hip-Hop",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4ICw5ualRoQjCO8K61B6i7",
+      "1ere_date_timestamp": 1259881200,
+      "edition": "31èmes Rencontres Trans Musicales",
+      "artistes": "Major Lazer",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "origine_pays1": "Jamaïque",
+      "1ere_date": "03-Dec-09",
+      "deezer": "7206742",
+      "origine_pays2": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.3189142295,
+        18.1551953465
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Barcelone",
+      "spotify": "spotify:album:0UiY1a1cTE7Dq9hR6LRImW",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "Meneo",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "1521773",
+      "origine_pays1": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.65226540732,
+        40.2274328729
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Lille",
+      "1ere_date_timestamp": 1259708400,
+      "artistes": "Osni",
+      "1ere_salle": "Le 4 Bis",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "01-Dec-09",
+      "1er_projet_atm": "Focus",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1259708400,
+      "origine_ville2": "Saint-Brieuc",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "deezer": "488557",
+      "spotify": "spotify:album:0OECaiiP1Sxy8MNtCmXtMt",
+      "1ere_date_timestamp": 1259190000,
+      "1er_projet_atm": "Tournée des Trans",
+      "2eme_projet": "Focus",
+      "origine_pays1": "France",
+      "2eme_date": "01-Dec-09",
+      "origine_ville1": "Rennes",
+      "2eme_salle": "Le 4 Bis",
+      "artistes": "The Bird Is Yellow",
+      "1ere_salle": "Ubu",
+      "1ere_date": "25-Nov-09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Toronto",
+      "spotify": "spotify:album:7L6AlbcsrTTp0qCHA2smBR",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "The Carps",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "6268942",
+      "origine_pays1": "Canada"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.2945373672,
+        61.3765600742
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Stockholm",
+      "spotify": "spotify:album:4ennvWXh9Ub9iHnLLYDFCD",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "The Field",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "deezer": "7953370",
+      "origine_pays1": "Suède"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.7542843545,
+        62.777378402
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Derry",
+      "spotify": "spotify:album:3iCenW2hTnXyHyyhQC9r0t",
+      "1ere_date_timestamp": 1259967600,
+      "artistes": "The Japanese Popstars",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-09",
+      "deezer": "671039",
+      "origine_pays1": "Irlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.14541782157,
+        53.177727454
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Glasgow",
+      "spotify": "spotify:album:0WF378u1dCymLprelvFelQ",
+      "1ere_date_timestamp": 1259881200,
+      "artistes": "The Phantom Band",
+      "origine_ville2": "Londres",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-09",
+      "deezer": "355058",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "edition": "31èmes Rencontres Trans Musicales",
+      "deezer": "7072697",
+      "spotify": "spotify:album:4KO0FXAAwroRgt1hkTuQtj",
+      "1ere_date_timestamp": 1259967600,
+      "origine_pays4": "Royaume-Uni",
+      "origine_pays1": "Malawi",
+      "origine_pays2": "France",
+      "origine_pays3": "Suède",
+      "artistes": "The Very Best",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "1ere_date": "04-Dec-09"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        34.2899685082,
+        -13.2171368017
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4vOpX4Uov9I6v4v2df3jM5",
+      "1ere_date_timestamp": 1259794800,
+      "artistes": "Vrelo",
+      "1ere_salle": "Liberté Bas",
+      "edition": "31èmes Rencontres Trans Musicales",
+      "1ere_date": "02-Dec-09",
+      "deezer": "1541603",
+      "origine_pays1": "Serbie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        20.7902937118,
+        44.221300008
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:7hd9VRBrIOOGQN3tc1BGTQ",
+      "1ere_date_timestamp": 1228518000,
+      "artistes": "Anthony Joseph & The Spasm Band",
+      "1ere_salle": "La Cité",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-08",
+      "deezer": "9386246",
+      "origine_pays1": "Trinité et Tobago"
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Northwestern",
+      "spotify": "spotify:album:2JLDMOX168DhnueBb946kw",
+      "1ere_date_timestamp": 1228431600,
+      "artistes": "Bon Iver",
+      "1ere_salle": "La Cité",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-08",
+      "deezer": "10762154",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1228518000,
+      "artistes": "Chris De Luca Vs Phon.o",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-08",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:6etCkKmPVzTIvogOKJpgF6",
+      "1ere_date_timestamp": 1228431600,
+      "artistes": "El Guincho",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-08",
+      "deezer": "219596",
+      "origine_pays1": "Espagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -3.65226540732,
+        40.2274328729
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1226703600,
+      "origine_ville1": "Nantes",
+      "5eme_date_timestamp": 1228345200,
+      "edition": "30èmes Rencontres Trans Musicales",
+      "2eme_date": "14-Nov-08",
+      "deezer": "96728",
+      "spotify": "spotify:album:4ShaJTm9WBuNfjjMXAeMVs",
+      "1ere_date_timestamp": 1226444400,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "26-Nov-08",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "20-Nov-08",
+      "5eme_date": "03-Dec-08",
+      "3eme_date_timestamp": 1227222000,
+      "4eme_date_timestamp": 1227740400,
+      "2eme_salle": "Le VIP, Saint-Nazaire",
+      "3eme_salle": "L'Omnibus, Saint-Malo",
+      "artistes": "Minitel Rose",
+      "1ere_salle": "Le Cargö, Caen",
+      "1ere_date": "11-Nov-08",
+      "5eme_salle": "Parc des Expositions - Hall 4",
+      "4eme_salle": "La Passerelle, Saint-Brieuc"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Paris",
+      "spotify": "spotify:album:7AVzKmjCw4zRmMjAvpPldG",
+      "1ere_date_timestamp": 1228431600,
+      "artistes": "Naive New Beaters",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-08",
+      "deezer": "532362",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1165532400,
+      "edition": "28èmes Rencontres Trans Musicales",
+      "2eme_date": "07-Dec-06",
+      "1ere_date_timestamp": 1163631600,
+      "1er_projet_atm": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "04-Dec-08",
+      "3eme_date_timestamp": 1228431600,
+      "origine_ville1": "Rennes",
+      "2eme_salle": "Parc des Expositions - Hall 3",
+      "3eme_salle": "Parc des Expositions - Hall 4",
+      "artistes": "Pat Panik",
+      "1ere_salle": "Le Cargö, Caen",
+      "1ere_date": "15-Nov-06"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1228431600,
+      "edition": "30èmes Rencontres Trans Musicales",
+      "deezer": "41182",
+      "spotify": "spotify:album:2uYuHLz4Yn5CvpwgE3ny4O",
+      "1ere_date_timestamp": 1227308400,
+      "1er_projet_atm": "Focus",
+      "2eme_projet": "Focus",
+      "origine_pays1": "France",
+      "2eme_date": "04-Dec-08",
+      "2eme_salle": "Le 4 Bis",
+      "artistes": "Peter Digital Orchestra",
+      "1ere_salle": "Le Coatelan, Morlaix",
+      "1ere_date": "21-Nov-08"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1228258800,
+      "edition": "30èmes Rencontres Trans Musicales",
+      "2eme_date": "02-Dec-08",
+      "1ere_date_timestamp": 1227308400,
+      "1er_projet_atm": "Focus",
+      "2eme_projet": "Focus",
+      "origine_pays1": "France",
+      "2eme_salle": "Le 4 Bis",
+      "artistes": "Rotor Jambreks",
+      "1ere_salle": "Le Manège, Lorient",
+      "1ere_date": "21-Nov-08"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:0xwY24Etqvei2XXltdPLxL",
+      "1ere_date_timestamp": 1228518000,
+      "artistes": "The Count And Sinden",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-08",
+      "deezer": "423194",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1228431600,
+      "artistes": "The Glitch Mob",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-08",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1228431600,
+      "artistes": "The Penelopes & Morpheus",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "30èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-08",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1195081200,
+      "origine_ville1": "Bretagne",
+      "5eme_date_timestamp": 1196982000,
+      "edition": "29èmes Rencontres Trans Musicales",
+      "2eme_date": "14-Nov-07",
+      "deezer": "44093",
+      "spotify": "spotify:album:6hxVKuND15lz4j6Hr1L5EO",
+      "1ere_date_timestamp": 1194908400,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "05-Dec-07",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "20-Nov-07",
+      "5eme_date": "06-Dec-07",
+      "3eme_date_timestamp": 1195599600,
+      "4eme_date_timestamp": 1196895600,
+      "2eme_salle": "L'Olympic, Nantes",
+      "3eme_salle": "La Passerelle, Saint-Brieuc",
+      "artistes": "Badume's Band",
+      "1ere_salle": "Le Chabada, Angers",
+      "1ere_date": "12-Nov-07",
+      "5eme_salle": "Les Champs Libres",
+      "4eme_salle": "La Cité"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Los Angeles",
+      "spotify": "spotify:album:6t26JGI5TZ40XBP2JZqazw",
+      "1ere_date_timestamp": 1197068400,
+      "artistes": "Guns'n'Bombs",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-07",
+      "deezer": "14041086",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date": "06-Dec-08",
+      "2eme_date_timestamp": 1228604400,
+      "1ere_date_timestamp": 1196895600,
+      "artistes": "Hamlet / thèmes et variations",
+      "1ere_salle": "Antipode",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "2eme_salle": "Antipode",
+      "1ere_date": "05-Dec-07",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:5hegAl5O4NIV7COGHiRXdi",
+      "1ere_date_timestamp": 1196895600,
+      "artistes": "Love Trio In Dub Feat. U-Roy",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-07",
+      "deezer": "6106538"
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1194908400,
+      "origine_ville1": "Rennes",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "2eme_date": "12-Nov-07",
+      "1ere_date_timestamp": 1193958000,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "30-Nov-07",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "16-Nov-07",
+      "5eme_date": "07-Dec-07",
+      "3eme_date_timestamp": 1195254000,
+      "4eme_date_timestamp": 1196463600,
+      "2eme_salle": "Le Chabada, Angers",
+      "3eme_salle": "Salle municipale, Louvigné-du-Désert",
+      "artistes": "Micronologie",
+      "1ere_salle": "Le Thy'roir, Ploërmel",
+      "1ere_date": "01-Nov-07",
+      "5eme_date_timestamp": 1197068400,
+      "5eme_salle": "Parc des Expositions - Hall 4",
+      "4eme_salle": "Run Ar Puns, Châteaulin"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1197068400,
+      "edition": "29èmes Rencontres Trans Musicales",
+      "deezer": "504133",
+      "spotify": "spotify:album:6yMtXDfPBaHzg7CskYZRgy",
+      "1ere_date_timestamp": 1196895600,
+      "1er_projet_atm": "Conférence-Concert du Jeu de L'Ouïe",
+      "origine_pays1": "Brésil",
+      "2eme_date": "07-Dec-07",
+      "2eme_salle": "Parc des Expositions - Hall 9",
+      "artistes": "MixHell",
+      "1ere_salle": "Les Champs Libres",
+      "1ere_date": "05-Dec-07"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -53.0925364784,
+        -10.7811447641
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Brighton",
+      "1ere_date_timestamp": 1196895600,
+      "artistes": "My Federation",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-07",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4d9ies0Wjs5WiZM535wVAp",
+      "1ere_date_timestamp": 1196982000,
+      "artistes": "My Name Is Nobody",
+      "1ere_salle": "Le 4 Bis",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-07",
+      "1er_projet_atm": "Focus",
+      "deezer": "44149",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:6dVXfXN16eH6nHqwCw2H5u",
+      "1ere_date_timestamp": 1196982000,
+      "artistes": "Prins Nitram",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-07",
+      "deezer": "1461925",
+      "origine_pays1": "Danemark"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.0502290036,
+        55.9659213307
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:2qdoUlNHGLslOOIr42tkHW",
+      "1ere_date_timestamp": 1197068400,
+      "artistes": "Simian Mobile Disco",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-07",
+      "deezer": "1644240",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:7dlO9tntaYb8NvPlfemUBW",
+      "1ere_date_timestamp": 1197068400,
+      "artistes": "Sinden",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-07",
+      "deezer": "1033153",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "France",
+      "spotify": "spotify:album:0LyXJDto4wI0F1OD45ZWPz",
+      "1ere_date_timestamp": 1196895600,
+      "artistes": "The Dø",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-07",
+      "deezer": "354398",
+      "origine_pays1": "Finlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.2713520963,
+        64.496025362
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Noid",
+      "spotify": "spotify:album:3nae87EcAFWFpqpKRtH1Sj",
+      "1ere_date_timestamp": 1196895600,
+      "artistes": "The Heavy",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-07",
+      "deezer": "936066",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:3j82VdXskK43xMZtMNIj78",
+      "1ere_date_timestamp": 1196982000,
+      "artistes": "Tiny Masters Of Today",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "29èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-07",
+      "deezer": "7257875",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:1pJT6SArgRf1aQ5DCTxl7g",
+      "1ere_date_timestamp": 1165532400,
+      "artistes": "Albert Hammond Jr.",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-06",
+      "deezer": "12885888",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:1JwOlpUjceLdafSQVqd9Qq",
+      "1ere_date_timestamp": 1165618800,
+      "artistes": "DAM",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-06",
+      "deezer": "41685451",
+      "origine_pays1": "Palestine"
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1163113200,
+      "origine_ville1": "Rennes",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "2eme_date": "09-Nov-06",
+      "1ere_date_timestamp": 1163026800,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "08-Dec-06",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "29-Nov-06",
+      "3eme_date_timestamp": 1164841200,
+      "4eme_date_timestamp": 1165618800,
+      "2eme_salle": "Le Thy'roir, Ploërmel",
+      "3eme_salle": "César, Brest",
+      "artistes": "DJ Flow & MC Darrison",
+      "1ere_salle": "L'Olympic, Nantes",
+      "1ere_date": "08-Nov-06",
+      "4eme_salle": "Parc des Expositions - Hall 3"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:7DJkEDXTySZeXc0BYzKPVB",
+      "1ere_date_timestamp": 1165618800,
+      "artistes": "Easy Star All-Stars",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-06",
+      "deezer": "14381744",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1165618800,
+      "edition": "28èmes Rencontres Trans Musicales",
+      "deezer": "62274582",
+      "spotify": "spotify:album:4txyh6xPugKhoiPySRfR3k",
+      "1ere_date_timestamp": 1165618800,
+      "2eme_projet": "Les Trans dans les Prisons",
+      "origine_pays1": "Brésil",
+      "2eme_date": "08-Dec-06",
+      "2eme_salle": "Centre Pénitentiaire des Femmes",
+      "artistes": "Edu-K",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "1ere_date": "08-Dec-06"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -53.0925364784,
+        -10.7811447641
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Marseille",
+      "spotify": "spotify:album:0cHdrv5tYwPW0sWuDjnQan",
+      "1ere_date_timestamp": 1165618800,
+      "artistes": "Keny Arkana",
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-06",
+      "deezer": "83998872",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:3J6p4WI9VMROlrs3ozIJ9N",
+      "1ere_date_timestamp": 1165532400,
+      "artistes": "Klaxons",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-06",
+      "deezer": "940423",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Toronto",
+      "spotify": "spotify:album:3LyQt9bX2ryV427CTTdGGB",
+      "1ere_date_timestamp": 1165618800,
+      "artistes": "Mstrkrft",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "08-Dec-06",
+      "deezer": "12937100",
+      "origine_pays1": "Canada"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.2945373672,
+        61.3765600742
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1165446000,
+      "edition": "28èmes Rencontres Trans Musicales",
+      "2eme_date": "06-Dec-06",
+      "deezer": "9199113",
+      "spotify": "spotify:album:0qkuvo87wGhUmnUithw3fn",
+      "1ere_date_timestamp": 1165359600,
+      "1er_projet_atm": "Création",
+      "4eme_date": "08-Dec-06",
+      "2eme_projet": "Création",
+      "origine_pays1": "Suède",
+      "3eme_date": "07-Dec-06",
+      "3eme_date_timestamp": 1165532400,
+      "4eme_date_timestamp": 1165618800,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "Peter Von Poehl",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "05-Dec-06",
+      "4eme_salle": "Aire Libre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        16.7542843545,
+        62.777378402
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Libreville",
+      "spotify": "spotify:album:5xV8PmXidgKI88KrkiI5kU",
+      "1ere_date_timestamp": 1165532400,
+      "artistes": "Sierra Leone's Refugee All Stars",
+      "1ere_salle": "La Cité",
+      "edition": "28èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-06",
+      "deezer": "43835981",
+      "origine_pays1": "Sierra Leone"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -11.7947178851,
+        8.56342159427
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1007161200,
+      "artistes": "Bob Log III",
+      "1ere_salle": "La Cité",
+      "edition": "23èmes Rencontres Trans Musicales",
+      "1ere_date": "30-Nov-01",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1386115200,
+      "artistes": "Apochela",
+      "1ere_salle": "Ubu",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "04-Dec-13",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1386201600,
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "2eme_date": "05-Dec-13",
+      "deezer": "7023188",
+      "spotify": "spotify:album:2fe1cJk81gXbCSFKvWCCGG",
+      "1ere_date_timestamp": 1386115200,
+      "1er_projet_atm": "Création",
+      "4eme_date": "07-Dec-13",
+      "2eme_projet": "Création",
+      "origine_pays1": "Royaume-Uni",
+      "3eme_date": "06-Dec-13",
+      "3eme_date_timestamp": 1386288000,
+      "4eme_date_timestamp": 1386374400,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "Benjamin Clementine",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "04-Dec-13",
+      "4eme_salle": "Aire Libre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1384732800,
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "2eme_date": "18-Nov-13",
+      "1ere_date_timestamp": 1384473600,
+      "1er_projet_atm": "Danse Hip-Hop",
+      "2eme_projet": "Danse Hip-Hop",
+      "origine_pays1": "France",
+      "origine_ville1": "Lorient",
+      "2eme_salle": "Le Triangle",
+      "artistes": "Compagnie Eskemm",
+      "1ere_salle": "Espace Bel Air, Saint-Aubin-du-Cormier",
+      "1ere_date": "15-Nov-13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "spotify": "spotify:album:3cz94gSv4F8wOZ57rBAOWg",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "DOIST!",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "deezer": "7862445",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1384992000,
+      "origine_ville1": "Rennes",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "deezer": "7077030",
+      "2eme_date": "21-Nov-13",
+      "1ere_date_timestamp": 1383868800,
+      "1er_projet_atm": "Kaléidoscope",
+      "4eme_date": "30-Nov-13",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "22-Nov-13",
+      "5eme_date": "06-Dec-13",
+      "3eme_date_timestamp": 1385078400,
+      "4eme_date_timestamp": 1385769600,
+      "2eme_salle": "Stereolux, Nantes",
+      "3eme_salle": "La Nouvelle Vague, Saint-Malo",
+      "artistes": "Expø",
+      "1ere_salle": "Théâtre de Poche, Hédé",
+      "1ere_date": "08-Nov-13",
+      "5eme_date_timestamp": 1386288000,
+      "5eme_salle": "L'Etage",
+      "4eme_salle": "Le Normandy, Saint-Lô"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Manchester",
+      "spotify": "spotify:album:4LnZwGV6qD7uTgvAmTiihZ",
+      "1ere_date_timestamp": 1386460800,
+      "artistes": "Fyfe",
+      "1ere_salle": "Ubu",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "08-Dec-13",
+      "deezer": "9756000",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Deptford",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "Iva G. Moskovich",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:4J3PrehfTZYAWpypLlaU3u",
+      "1ere_date_timestamp": 1386288000,
+      "artistes": "Jacuzzi Boys",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "06-Dec-13",
+      "deezer": "7490733",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Montpellier",
+      "spotify": "spotify:album:6pfuTFB8g61vkYvigdpDhD",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "Joris Delacroix",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "deezer": "1025908",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:5SAPr3p7OL6elnwgyado0i",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "Julian Jeweil",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "deezer": "6819129",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1386374400,
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "2eme_date": "07-Dec-13",
+      "1ere_date_timestamp": 1386288000,
+      "1er_projet_atm": "Danse Hip-Hop",
+      "2eme_projet": "Danse Hip-Hop",
+      "origine_pays1": "France",
+      "origine_ville1": "Créteil",
+      "2eme_salle": "Le Triangle",
+      "artistes": "Käfig Brasil",
+      "1ere_salle": "Le Triangle",
+      "1ere_date": "06-Dec-13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:2FBi6c11buRBq4A1VqzexY",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "Kid Karate",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "deezer": "6913793",
+      "origine_pays1": "Irlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.14541782157,
+        53.177727454
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:7pS7h2dDsu8lH4SeHqLuLi",
+      "1ere_date_timestamp": 1386374400,
+      "artistes": "Konstantin Sibold",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-13",
+      "deezer": "41386431",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1386201600,
+      "origine_ville1": "Paris",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "2eme_date": "05-Dec-13",
+      "deezer": "8854031",
+      "spotify": "spotify:album:3AvMDJPPFOauGPVjznqxWR",
+      "1ere_date_timestamp": 1386115200,
+      "4eme_date": "07-Dec-13",
+      "origine_pays1": "France",
+      "3eme_date": "06-Dec-13",
+      "3eme_date_timestamp": 1386288000,
+      "4eme_date_timestamp": 1386374400,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "Leonie Pernet",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "04-Dec-13",
+      "4eme_salle": "Aire Libre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1386201600,
+      "artistes": "Luke Jenner",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "05-Dec-13",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:49V03qWEWr7PD8BSELECv8",
+      "1ere_date_timestamp": 1386288000,
+      "artistes": "Mikhael Paskalev",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "06-Dec-13",
+      "deezer": "77692172",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "spotify": "spotify:album:3k0kjaxIY7VDN9J15123LY",
+      "1ere_date_timestamp": 1386288000,
+      "artistes": "Mozes & The Firstborn",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "06-Dec-13",
+      "deezer": "45521961",
+      "origine_pays1": "Pays-Bas"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        5.22159177132,
+        52.0724168637
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1386201600,
+      "artistes": "Okay Monday",
+      "origine_ville1": "Lille",
+      "1ere_salle": "L'Etage",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "05-Dec-13",
+      "1er_projet_atm": "Focus",
+      "deezer": "6321839",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1386201600,
+      "artistes": "Popa Zens",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "05-Dec-13",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1386374400,
+      "edition": "35èmes Rencontres Trans Musicales de Rennes",
+      "deezer": "6506041",
+      "spotify": "spotify:album:4XNr7G8IP82fyNnFTPcTUM",
+      "1ere_date_timestamp": 1385683200,
+      "1er_projet_atm": "Tournée des Trans",
+      "origine_pays1": "France",
+      "2eme_date": "07-Dec-13",
+      "origine_ville1": "Caen",
+      "2eme_salle": "L'Etage",
+      "artistes": "Samba De La Muerte",
+      "1ere_salle": "Le VIP, Saint-Nazaire",
+      "1ere_date": "29-Nov-13"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Lima",
+      "spotify": "spotify:album:5lnAq5BZXGhIrG7ZcdM8M5",
+      "1ere_date_timestamp": 1417879111,
+      "artistes": "Animal Chuki",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-14",
+      "deezer": "102290232",
+      "origine_pays1": "Pérou"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.3781377726,
+        -9.15437177966
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1417879111,
+      "artistes": "Awesome Tapes From Africa",
+      "1ere_salle": "Parc des Expositions - Hall 8",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-14",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bueno Aires",
+      "spotify": "spotify:album:14DTBgOPUSBQwiK0DCzaLl",
+      "1ere_date_timestamp": 1417879111,
+      "artistes": "Chancha Via Circuito",
+      "1ere_salle": "Ubu",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-14",
+      "nom_spectacle_ou_soiree": "Red Bull Music Academy",
+      "deezer": "8449491",
+      "origine_pays1": "Argentine"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -65.1782708231,
+        -35.3874753432
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1415287111,
+      "edition": "36èmes Rencontres Trans Musicales",
+      "2eme_date": "06-Nov-14",
+      "1ere_date_timestamp": 1415200711,
+      "1er_projet_atm": "Danse Hip-Hop",
+      "2eme_projet": "Danse Hip-Hop",
+      "origine_pays1": "France",
+      "origine_ville1": "Bordeaux",
+      "2eme_salle": "Triangle",
+      "artistes": "Cie Rêvolution",
+      "1ere_salle": "Triangle",
+      "1ere_date": "05-Nov-14",
+      "nom_spectacle_ou_soiree": "Bliss"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "spotify": "spotify:album:3LY5DXAQBADgKisQ4xeYYj",
+      "1ere_date_timestamp": 1417706311,
+      "artistes": "Clarens",
+      "1ere_salle": "Parc des Expositions - Hall 8",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-14",
+      "deezer": "9026435",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Desselgem",
+      "spotify": "spotify:album:7lvk9NzANkZ4KVePdc7Cyi",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Compact Disk Dummies",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "deezer": "13164956",
+      "origine_pays1": "Belgique"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.63966996313,
+        50.6375465936
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:3d9iZC1iQYBTtv7cSCWdJW",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Cosmo Sheldrake",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "deezer": "111220012",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Atlanta",
+      "spotify": "spotify:album:7BlqkOOBcVqUwLEhC0Rxq6",
+      "1ere_date_timestamp": 1417706311,
+      "artistes": "Curtis Harding",
+      "1ere_salle": "Parc des Expositions - Hall 8",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-14",
+      "deezer": "43865811",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "1ere_date_timestamp": 1417965511,
+      "artistes": "Fitness",
+      "1ere_salle": "Ubu",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-14",
+      "nom_spectacle_ou_soiree": "France Enters Godmode",
+      "deezer": "53573122",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Metz",
+      "spotify": "spotify:album:2TD8KPYHeI60n4jMHtQ3mo",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Grand Blanc",
+      "1ere_salle": "Parc des Expositions - Hall 8",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "deezer": "12706886",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Des Moines",
+      "spotify": "spotify:album:4u23hExsnEfPTPy8ENbExp",
+      "1ere_date_timestamp": 1417619911,
+      "artistes": "Max Jury",
+      "1ere_salle": "Ubu",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-14",
+      "deezer": "8799373",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Melbourne",
+      "spotify": "spotify:album:5K4ig263X0fFmpxAOqHKpy",
+      "1ere_date_timestamp": 1417879111,
+      "artistes": "Money For Rope",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "06-Dec-14",
+      "deezer": "8610212",
+      "origine_pays1": "Australie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        134.491117773,
+        -25.7323831126
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1416583111,
+      "edition": "36èmes Rencontres Trans Musicales",
+      "deezer": "7112580",
+      "spotify": "spotify:album:25BeFVAOxXWCRahm13ggNb",
+      "1ere_date_timestamp": 1415200711,
+      "1er_projet_atm": "Focus",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "2eme_date": "21-Nov-14",
+      "origine_ville1": "Caen",
+      "2eme_salle": "L'Echonova, Saint-Avé",
+      "artistes": "My Summer Bee",
+      "1ere_salle": "L'Etage",
+      "1ere_date": "05-Nov-14"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Dublin",
+      "spotify": "spotify:album:06oluqqvPVHL8avB8Hmxnt",
+      "1ere_date_timestamp": 1417706311,
+      "artistes": "New Jackson",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-14",
+      "deezer": "7527792",
+      "origine_pays1": "Irlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -8.14541782157,
+        53.177727454
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Bern",
+      "spotify": "spotify:album:6QCWp2eJw28tH1aOByHUWZ",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Pablo Nouvelle",
+      "1ere_salle": "Ubu",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "nom_spectacle_ou_soiree": "Focus Suisse",
+      "deezer": "6613065",
+      "origine_pays1": "Suisse"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        8.21591266153,
+        46.7990859221
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "New-York",
+      "spotify": "spotify:album:1PS4NxsESWvurqscmtkUz8",
+      "1ere_date_timestamp": 1417965511,
+      "artistes": "Soft Lit",
+      "1ere_salle": "Ubu",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "07-Dec-14",
+      "nom_spectacle_ou_soiree": "France Enters Godmode",
+      "deezer": "10886608",
+      "origine_pays1": "Etats-Unis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.494333916,
+        45.6875333395
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Superets Sound System",
+      "1ere_salle": "Parc des Expositions - Hall 8",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Kaunas",
+      "spotify": "spotify:album:2Xr5oAtrUa1VaZad9yHBGC",
+      "1ere_date_timestamp": 1417792711,
+      "artistes": "Ten Walls",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "36èmes Rencontres Trans Musicales",
+      "1ere_date": "05-Dec-14",
+      "deezer": "15286183",
+      "origine_pays1": "Lituanie"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        23.8885032451,
+        55.3270297547
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1416064711,
+      "edition": "36èmes Rencontres Trans Musicales",
+      "2eme_date": "15-Nov-14",
+      "1ere_date_timestamp": 1415287111,
+      "1er_projet_atm": "Focus",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "20-Nov-14",
+      "3eme_date_timestamp": 1416496711,
+      "origine_ville1": "Brest",
+      "2eme_salle": "La Carène, Brest",
+      "3eme_salle": "Stereolux, Nantes",
+      "artistes": "The Slow Sliders",
+      "1ere_salle": "L'Etage",
+      "1ere_date": "06-Nov-14"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1417706311,
+      "edition": "36èmes Rencontres Trans Musicales",
+      "deezer": "9906036",
+      "spotify": "spotify:album:2wHmI0xP56tgLzLPxMdkhb",
+      "1ere_date_timestamp": 1417619911,
+      "origine_pays1": "France",
+      "2eme_date": "04-Dec-14",
+      "origine_ville1": "Paris",
+      "2eme_salle": "Aire Libre",
+      "artistes": "VKNG",
+      "1ere_salle": "Aire Libre",
+      "1ere_date": "03-Dec-14"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Berlin",
+      "spotify": "spotify:album:1pebphZwfJ0bYbNYzjRfvK",
+      "1ere_date_timestamp": 1449183600,
+      "artistes": "&ME",
+      "1ere_salle": "Parc des Expositions - Green Room",
+      "edition": "37èmes Rencontres Trans Musicales",
+      "1ere_date": "03-Dec-15",
+      "deezer": "43268211",
+      "origine_pays1": "Allemagne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        10.3817108727,
+        51.1062734358
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1039042800,
+      "edition": "24èmes Rencontres Trans Musicales",
+      "2eme_date": "04-Dec-02",
+      "deezer": "307437",
+      "spotify": "spotify:album:6PP4mb3Xaa0iEgxEtHy2QZ",
+      "1ere_date_timestamp": 1038956400,
+      "1er_projet_atm": "Les Trans dans les Prisons",
+      "4eme_date": "06-Dec-02",
+      "2eme_projet": "Création",
+      "origine_pays1": "Belgique",
+      "3eme_date": "05-Dec-02",
+      "3eme_date_timestamp": 1039129200,
+      "4eme_date_timestamp": 1039215600,
+      "2eme_salle": "Aire Libre",
+      "3eme_salle": "Aire Libre",
+      "artistes": "Venus",
+      "1ere_salle": "Centre Pénitentiaire des Femmes",
+      "1ere_date": "03-Dec-02",
+      "4eme_salle": "Aire Libre"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        4.63966996313,
+        50.6375465936
+      ]
+    }
+  },
+  {
+    "fields": {
+      "1ere_date_timestamp": 1039042800,
+      "artistes": "Zong",
+      "1ere_salle": "La Cité",
+      "edition": "24èmes Rencontres Trans Musicales",
+      "1ere_date": "04-Dec-02",
+      "origine_pays1": "France (La Réunion)"
+    }
+  },
+  
+  {
+    "fields": {
+      "origine_ville1": "São Paulo",
+      "spotify": "spotify:album:2k5pXJlmkaQ4xL3BPNXEtg",
+      "1ere_date_timestamp": 1575676800,
+      "artistes": "Victor Ruiz",
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "41èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-19",
+      "deezer": "83600952",
+      "origine_pays1": "Brésil"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -53.0925364784,
+        -10.7811447641
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Rennes",
+      "1ere_date_timestamp": 1575676800,
+      "artistes": "Wunderbar",
+      "1ere_salle": "Parc des Expositions - Hall 3",
+      "edition": "41èmes Rencontres Trans Musicales de Rennes",
+      "1ere_date": "07-Dec-19",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+  }
+      ]
+    }
+]

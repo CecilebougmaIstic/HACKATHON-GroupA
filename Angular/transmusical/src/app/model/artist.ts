@@ -1,6 +1,10 @@
 export class Artist {
 	nomGroupe:string;
-	nom_spectacle_ou_soiree:string;
+	nomSpectacle:string;
 	dateConcert:string;
 	edition:string;
+	paysOrigine:string;
+	isAnnule:false;
+	prix:number;
+	coordonnees:{longitude:number,latitude:number};
 }
