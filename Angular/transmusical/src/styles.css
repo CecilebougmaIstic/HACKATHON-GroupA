@@ -6,9 +6,10 @@ body{
 	text-align:center;
 }
 .banner_image{
-	height:100px;
-	width:150px;
-	vertical-align: left;
+	height:200px;
+	width:200px;
+	vertical-align:center;
+	align-content:left;
 }
 
 .onglets{
@@ -79,7 +80,7 @@ body{
 .label{
 	padding-right:50px;
 	color:black;
-	
+	font-size:20px;
 }
 
 .button{
