@@ -15,7 +15,8 @@ class Historique extends StatelessWidget{
   Widget build(BuildContext context) {
     final args = ModalRoute.of(context)!.settings.arguments;
     String annee = args.toString();
-    print(annee);
+    print(args);
+    print("ok");
     final artist = Provider.of<List<fieldsBackUpL>>(context); //-L
     return Scaffold(
       appBar: AppBar(
@@ -33,12 +34,12 @@ class Historique extends StatelessWidget{
                   children: <Widget>[
                     ListTile(
                       leading: const Icon(Icons.people),
-                      title: Text(ar.date),
+                      title: Text(ar.annee.toString()),
                       subtitle: Column(
                         children: <Widget>[
                           Text(ar.artistes),
                           Text(ar.edition),
-                          Text(ar.annee.toString()),
+                          Text(ar.date),
                         ],
                       ),
                     ),

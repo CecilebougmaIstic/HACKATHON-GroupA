@@ -39,7 +39,7 @@ Drawer getDraw(context) {
             // Navigator.pop(context);
             Navigator.pushNamed(
                 context,
-                'homepage');
+                '/homepage');
           },
         ),
         ListTile(
@@ -48,7 +48,7 @@ Drawer getDraw(context) {
             // Navigator.pop(context);
             Navigator.pushNamed(
                 context,
-                'artists');
+                '/artists');
           },
         ),
         ListTile(
@@ -57,7 +57,7 @@ Drawer getDraw(context) {
             // Navigator.pop(context);
             Navigator.pushNamed(
                 context,
-                'pagePays');
+                '/pagePays');
           },
         ),
         ListTile(
@@ -66,7 +66,7 @@ Drawer getDraw(context) {
             // Navigator.pop(context);
             Navigator.pushNamed(
                 context,
-                'historique');
+                '/indirection');
           },
         ),
         ListTile(
@@ -75,7 +75,7 @@ Drawer getDraw(context) {
             // Navigator.pop(context);
             Navigator.pushNamed(
                 context,
-                'pageCetteAnnee');
+                '/pageCetteAnnee');
           },
         ),
       ],
