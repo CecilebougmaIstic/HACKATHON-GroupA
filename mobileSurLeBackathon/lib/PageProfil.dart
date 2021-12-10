@@ -6,17 +6,15 @@ import 'package:provider/provider.dart';
 import 'package:projetest/database/fieldsBackUp.dart';
 import 'package:projetest/function.dart';
 
-import 'PageProfil.dart';
-
-class PageAccueil extends StatelessWidget {
-  const PageAccueil({Key? key, required String title}) : super(key: key);
+class PageProfil extends StatelessWidget {
+  const PageProfil({Key? key, required String title}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     final artist = Provider.of<List<fieldsBackUp>>(context);
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Accueil'),
+        title: const Text('Page Profil'),
       ),
       drawer: getDraw(context),
       body: ListView.builder(
@@ -29,26 +27,20 @@ class PageAccueil extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: <Widget>[
                     ListTile(
-                      leading: const Icon(Icons.album),
+                      leading: const Icon(Icons.people),
                       title: Text(ar.artistes),
-                      subtitle: Text(ar.premiereDate),
+                      subtitle: Column(
+                        children: <Widget>[
+                          Text(ar.edition),
+                          Text(ar.originePays1),
+                          Text(ar.origineVille1),
+                          Text(ar.premiereDate),
+                          Text(ar.premiereSalle),
+                        ],
+                      ),
                     ),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.end,
-                      children: <Widget>[
-                        TextButton(
-                          child: const Text('Profil'),
-                          onPressed: () {
-                            Navigator.push(
-                              context,
-                              MaterialPageRoute(
-                                  builder: (_) =>
-                                      const PageProfil(title: 'title')),
-                            );
-                          },
-                        ),
-                        const SizedBox(width: 8),
-                      ],
                     ),
                   ],
                 ),
