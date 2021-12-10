@@ -15,17 +15,18 @@ class RouteGenerator{
       case '/':
           return MaterialPageRoute(builder: (_) => PageAccueil( title: 'pasge acceuil',));
       case '/historique':
-        return MaterialPageRoute(builder: (_) =>  Historique(Title: 'historique',));
+        return MaterialPageRoute(builder: (_) =>  Historique(Title: 'historique',message :settings.arguments.toString()));
       case '/home_page':
         return MaterialPageRoute(builder: (_) =>  PageAccueil(title: 'PageAccueil',));
       case  '/artists':
-          return MaterialPageRoute(builder: (_) =>  PageArtiste(title: 'PageArtist',));
+          return MaterialPageRoute(builder: (_) =>  PageAccueil(title: 'PageArtist',));
       case '/pagePays':
       return MaterialPageRoute(builder: (_) =>  PagePays(title: 'PagePays',));
       case '/pageCetteAnnee':
         return MaterialPageRoute(builder: (_)=> PageCetteAnnee(title: 'PagecetteAnnee'));
       case  '/indirection':
        return  MaterialPageRoute(builder: (_)=> Indirection(title: 'indirection'));
+
       default:
         return MaterialPageRoute(builder: (_) => PageAccueil(title: 'Page Acceuil'));
 

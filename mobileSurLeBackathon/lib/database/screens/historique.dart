@@ -8,19 +8,20 @@ import 'package:projetest/function.dart';
 
 class Historique extends StatelessWidget{
   final String Title;
-
-  const Historique({Key? key,required this.Title}) : super(key: key);
+  final String message;
+  const Historique({Key? key,required this.Title,required this.message}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     final args = ModalRoute.of(context)!.settings.arguments;
+
     String annee = args.toString();
-    print(args);
+    print(this.message);
     print("ok");
     final artist = Provider.of<List<fieldsBackUpL>>(context); //-L
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Historique '),
+        title: const Text('Historique'),
       ),
       drawer: getDraw(context),
       body: ListView.builder(

@@ -10,6 +10,7 @@ class Indirection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    
     return Scaffold(
       appBar: AppBar(
         title: const Text('Artistes'),
@@ -50,7 +51,7 @@ class Indirection extends StatelessWidget {
                     "2017",
                     style:  TextStyle(fontSize: 20),
                   ),
-                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: "2017"),
+                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: '2017'),
                 ),
                 ListTile(
                   leading: Icon(Icons.album, color: Colors.black, size: 45),
@@ -58,7 +59,8 @@ class Indirection extends StatelessWidget {
                     "2016",
                     style: TextStyle(fontSize: 20),
                   ),
-                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: "2016"),
+                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: '2016',
+                  ),
                 ),
               ],
             ),

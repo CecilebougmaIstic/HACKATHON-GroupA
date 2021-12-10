@@ -4,6 +4,7 @@ import 'package:projetest/database/fieldsBackUpL.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 
 class backUpsL {
+  
   List<fieldsBackUpL> _fieldsList(QuerySnapshot? snapshot) {
     return snapshot!.docs.map((doc) {
       return fieldsBackUpL(
@@ -30,4 +31,12 @@ class backUpsL {
         .snapshots()
         .map(_fieldsList);
   }
+  Stream<List<fieldsBackUpL>> get getFielsByAnnee {
+    return FirebaseFirestore.instance
+        .collection("last_edition")
+        .orderBy("artistes")
+        .snapshots()
+        .map(_fieldsList);
+  }
+
 }
