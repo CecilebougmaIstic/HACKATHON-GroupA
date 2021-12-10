@@ -1,0 +1,310 @@
+[
+  {
+    "fields": {
+      "spotify": "spotify:album:18Zy53OB9BCG0GtoGkQXv0",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Bjørn Berge",
+      "geo_point_2d": [
+        68.7958281693,
+        15.4107026868
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-déc-04",
+      "deezer": "2999681",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "spotify": "spotify:album:2bDFUw8eB0OAIMigH77VVf",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Border Crossing",
+      "geo_point_2d": [
+        54.1454903122,
+        -2.88594273633
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-déc-04",
+      "deezer": "86869",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Londres",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Carbon/Silicon",
+      "geo_point_2d": [
+        54.1454903122,
+        -2.88594273633
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-déc-04",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Newport",
+      "spotify": "spotify:album:4CvsCpaTJ3y4KQLfE4q5Oq",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Goldie Lookin' Chain",
+      "geo_point_2d": [
+        54.1454903122,
+        -2.88594273633
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-déc-04",
+      "deezer": "86053",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Perpignan",
+      "spotify": "spotify:album:5TOKU69jFYySsn0CgzL14U",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Hushpuppies",
+      "geo_point_2d": [
+        42.1820291785,
+        -2.75442214946
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-déc-04",
+      "deezer": "898419",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1101337200,
+      "3eme_projet": "Kaléidoscope",
+      "origine_ville1": "Nantes",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_date": "24-nov-04",
+      "1ere_date_timestamp": 1101250800,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "01-déc-04",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "25-nov-04",
+      "3eme_date_timestamp": 1101423600,
+      "4eme_date_timestamp": 1101942000,
+      "2eme_salle": "L'Olympic, Nantes",
+      "3eme_salle": "L'Omnibus, Saint-Malo",
+      "artistes": "Hutchinson",
+      "geo_point_2d": [
+        42.1820291785,
+        -2.75442214946
+      ],
+      "1ere_salle": "Ubu",
+      "1ere_date": "23-nov-04",
+      "4eme_salle": "Village"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Oslo",
+      "spotify": "spotify:album:3Et9iQX7081Yk2lcHKZgT5",
+      "1ere_date_timestamp": 1102028400,
+      "artistes": "Lars Horntveth",
+      "geo_point_2d": [
+        68.7958281693,
+        15.4107026868
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 4",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "02-déc-04",
+      "deezer": "4294241",
+      "origine_pays1": "Norvège"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        15.4107026868,
+        68.7958281693
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Glasgow",
+      "2eme_date": "08-déc-13",
+      "2eme_date_timestamp": 1386460800,
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Optimo",
+      "geo_point_2d": [
+        54.1454903122,
+        -2.88594273633
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 9",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_salle": "Ubu",
+      "1ere_date": "03-déc-04",
+      "origine_pays1": "Royaume-Uni"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.88594273633,
+        54.1454903122
+      ]
+    }
+  },
+  {
+    "fields": {
+      "2eme_date_timestamp": 1100559600,
+      "3eme_projet": "Tournée des Trans, Hip-Hop en Trans",
+      "origine_ville1": "Rennes",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "2eme_date": "15-nov-04",
+      "deezer": "265934",
+      "spotify": "spotify:album:7lgCWHULqYjQyN0fUd2gAM",
+      "1ere_date_timestamp": 1100214000,
+      "1er_projet_atm": "Tournée des Trans",
+      "4eme_date": "03-déc-04",
+      "2eme_projet": "Tournée des Trans",
+      "origine_pays1": "France",
+      "3eme_date": "27-nov-04",
+      "3eme_date_timestamp": 1101596400,
+      "4eme_date_timestamp": 1102114800,
+      "2eme_salle": "Le Chabada, Angers",
+      "3eme_salle": "Salle municipale, Bazouges-la-Pérouse",
+      "artistes": "Psykick Lyrikah",
+      "geo_point_2d": [
+        42.1820291785,
+        -2.75442214946
+      ],
+      "1ere_salle": "La Passerelle, Saint-Brieuc",
+      "1ere_date": "11-nov-04",
+      "4eme_salle": "Village"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Helsinki",
+      "spotify": "spotify:album:7JYrQl03AvgrIfd2oyNEfk",
+      "1ere_date_timestamp": 1102114800,
+      "artistes": "Redrama",
+      "geo_point_2d": [
+        64.496025362,
+        26.2713520963
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "03-déc-04",
+      "deezer": "314402",
+      "origine_pays1": "Finlande"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        26.2713520963,
+        64.496025362
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Strasbourg",
+      "spotify": "spotify:album:1SPL1QX2K0f1AxsAjf8T3X",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Rodolphe Burger & Erik Marchand",
+      "geo_point_2d": [
+        42.1820291785,
+        -2.75442214946
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-déc-04",
+      "deezer": "41939",
+      "origine_pays1": "France"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -2.75442214946,
+        42.1820291785
+      ]
+    }
+  },
+  {
+    "fields": {
+      "origine_ville1": "Wroclaw",
+      "spotify": "spotify:album:79xgGrSQ9070fGJf0ipwb8",
+      "1ere_date_timestamp": 1101942000,
+      "artistes": "Skalpel",
+      "geo_point_2d": [
+        52.1248371866,
+        19.3943576278
+      ],
+      "1ere_salle": "Parc des Expositions - Hall 5",
+      "edition": "26èmes Rencontres Trans Musicales",
+      "1ere_date": "01-déc-04",
+      "deezer": "61467212",
+      "origine_pays1": "Pologne"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        19.3943576278,
+        52.1248371866
+      ]
+    }
+  }
+  ]
