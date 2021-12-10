@@ -1,5 +1,6 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:projetest/routes/index.dart';
 import 'package:provider/provider.dart';
 import 'package:projetest/database/backUps.dart';
 import 'package:projetest/database/fieldsBackUp.dart';
@@ -33,9 +34,11 @@ class MyApp extends StatelessWidget {
               theme: ThemeData(
                 primarySwatch: Colors.blue,
               ),
-              home: const PageAccueil(
+              initialRoute: '/',
+              onGenerateRoute: RouteGenerator.routes,
+             /* home: const PageAccueil(
                 title: '',
-              ),
+              ),*/
             ),
           );
         }
