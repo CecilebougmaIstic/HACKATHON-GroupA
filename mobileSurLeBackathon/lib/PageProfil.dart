@@ -3,7 +3,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:projetest/database/fieldsBackUp.dart';
+import 'package:projetest/database/fieldsBackUpL.dart'; // -L
 import 'package:projetest/function.dart';
 
 class PageProfil extends StatelessWidget {
@@ -11,7 +11,7 @@ class PageProfil extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final artist = Provider.of<List<fieldsBackUp>>(context);
+    final artist = Provider.of<List<fieldsBackUpL>>(context); //-L
     return Scaffold(
       appBar: AppBar(
         title: const Text('Page Profil'),
@@ -31,11 +31,14 @@ class PageProfil extends StatelessWidget {
                       title: Text(ar.artistes),
                       subtitle: Column(
                         children: <Widget>[
+                          Text(ar.date),
                           Text(ar.edition),
-                          Text(ar.originePays1),
-                          Text(ar.origineVille1),
-                          Text(ar.premiereDate),
-                          Text(ar.premiereSalle),
+                          Text(ar.annee.toString()),
+                          Text(ar.pays),
+                          Text(ar.salle),
+                          Text(ar.ville),
+                          Text(ar.spotify),
+                          Text(ar.deezer),
                         ],
                       ),
                     ),

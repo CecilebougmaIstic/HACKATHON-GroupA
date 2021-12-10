@@ -42,8 +42,10 @@ class PageAccueil extends StatelessWidget {
                             Navigator.push(
                               context,
                               MaterialPageRoute(
-                                  builder: (_) =>
-                                      const PageProfil(title: 'title')),
+                                  builder: (_) => PageProfil(
+                                        title: 'title',
+                                        artistes: ar.artistes,
+                                      )),
                             );
                           },
                         ),
