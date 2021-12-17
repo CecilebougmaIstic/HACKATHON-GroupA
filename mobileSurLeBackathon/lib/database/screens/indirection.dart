@@ -10,7 +10,6 @@ class Indirection extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    
     return Scaffold(
       appBar: AppBar(
         title: const Text('Artistes'),
@@ -27,39 +26,43 @@ class Indirection extends StatelessWidget {
             elevation: 10,
             child: Column(
               mainAxisSize: MainAxisSize.min,
-              children:  <Widget>[
-               const ListTile(
+              children: <Widget>[
+                const ListTile(
                   title: Text(
                     "Annee",
-                    style:
-                    TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
-
+                    style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                   ),
-
                 ),
                 ListTile(
-                  leading: Icon(Icons.album, color: Colors.red, size: 45),
+                  leading: const Icon(Icons.album, color: Colors.red, size: 45),
                   title: const Text(
                     "2018",
                     style: TextStyle(fontSize: 20),
                   ),
-                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: "2018"),
+                  onTap: () => Navigator.pushNamed(context, '/historique',
+                      arguments: "2018"),
                 ),
                 ListTile(
-                  leading: Icon(Icons.album, color: Colors.grey, size: 45),
+                  leading:
+                      const Icon(Icons.album, color: Colors.grey, size: 45),
                   title: const Text(
                     "2017",
-                    style:  TextStyle(fontSize: 20),
+                    style: TextStyle(fontSize: 20),
                   ),
-                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: '2017'),
+                  onTap: () => Navigator.pushNamed(context, '/historique',
+                      arguments: '2017'),
                 ),
                 ListTile(
-                  leading: Icon(Icons.album, color: Colors.black, size: 45),
+                  leading:
+                      const Icon(Icons.album, color: Colors.black, size: 45),
                   title: const Text(
                     "2016",
                     style: TextStyle(fontSize: 20),
                   ),
-                  onTap: () => Navigator.pushNamed(context, '/historique',arguments: '2016',
+                  onTap: () => Navigator.pushNamed(
+                    context,
+                    '/historique',
+                    arguments: '2016',
                   ),
                 ),
               ],

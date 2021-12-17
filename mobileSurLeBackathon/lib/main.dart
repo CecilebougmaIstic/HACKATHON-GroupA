@@ -5,7 +5,6 @@ import 'package:provider/provider.dart';
 import 'package:projetest/database/backUpsL.dart'; //-L
 import 'package:projetest/database/fieldsBackUpL.dart'; //-L
 
-import 'PageAccueil.dart';
 import 'database/backUpsL.dart'; //-L
 import 'database/fieldsBackUpL.dart'; //-L
 

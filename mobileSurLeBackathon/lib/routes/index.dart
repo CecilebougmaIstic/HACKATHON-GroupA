@@ -8,27 +8,43 @@ import 'package:projetest/database/screens/indirection.dart';
 
 import '../PagePays.dart';
 
-class RouteGenerator{
-
+class RouteGenerator {
   static Route<dynamic> routes(RouteSettings settings) {
     switch (settings.name) {
       case '/':
-          return MaterialPageRoute(builder: (_) => PageAccueil( title: 'pasge acceuil',));
+        return MaterialPageRoute(
+            builder: (_) => const PageAccueil(
+                  title: 'pasge acceuil',
+                ));
       case '/historique':
-        return MaterialPageRoute(builder: (_) =>  Historique(Title: 'historique',message :settings.arguments.toString()));
+        return MaterialPageRoute(
+            builder: (_) => Historique(
+                Title: 'historique', message: settings.arguments.toString()));
       case '/home_page':
-        return MaterialPageRoute(builder: (_) =>  PageAccueil(title: 'PageAccueil',));
-      case  '/artists':
-          return MaterialPageRoute(builder: (_) =>  PageAccueil(title: 'PageArtist',));
+        return MaterialPageRoute(
+            builder: (_) => const PageAccueil(
+                  title: 'PageAccueil',
+                ));
+      case '/artists':
+        return MaterialPageRoute(
+            builder: (_) => const PageAccueil(
+                  title: 'PageArtist',
+                ));
       case '/pagePays':
-      return MaterialPageRoute(builder: (_) =>  PagePays(title: 'PagePays',));
+        return MaterialPageRoute(
+            builder: (_) => const PagePays(
+                  title: 'PagePays',
+                ));
       case '/pageCetteAnnee':
-        return MaterialPageRoute(builder: (_)=> PageCetteAnnee(title: 'PagecetteAnnee'));
-      case  '/indirection':
-       return  MaterialPageRoute(builder: (_)=> Indirection(title: 'indirection'));
+        return MaterialPageRoute(
+            builder: (_) => const PageCetteAnnee(title: 'PagecetteAnnee'));
+      case '/indirection':
+        return MaterialPageRoute(
+            builder: (_) => const Indirection(title: 'indirection'));
 
       default:
-        return MaterialPageRoute(builder: (_) => PageAccueil(title: 'Page Acceuil'));
-
+        return MaterialPageRoute(
+            builder: (_) => const PageAccueil(title: 'Page Acceuil'));
     }
-  }}
+  }
+}

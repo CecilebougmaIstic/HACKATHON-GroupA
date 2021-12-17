@@ -16,7 +16,7 @@ class PageAccueil extends StatelessWidget {
     final artist = Provider.of<List<fieldsBackUpL>>(context); // -L
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Accueil'),
+        title: const Text('Artistes'),
       ),
       drawer: getDraw(context),
       body: ListView.builder(

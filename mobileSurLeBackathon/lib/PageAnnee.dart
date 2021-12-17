@@ -2,8 +2,6 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:projetest/database/screens/historique.dart';
-import 'package:projetest/routes/index.dart';
 
 import 'function.dart';
 
@@ -32,7 +30,7 @@ class PageAnnee extends StatelessWidget {
               ),
             ),
             child: Card(
-              margin:  EdgeInsets.all(10),
+              margin: EdgeInsets.all(10),
               color: Colors.grey[100],
               shadowColor: Colors.black,
               elevation: 10,
@@ -44,31 +42,29 @@ class PageAnnee extends StatelessWidget {
                       "Historique",
                       style:
                           TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
-
                     ),
-
                   ),
                   ListTile(
-                    leading: Icon(Icons.repeat_on_outlined,
-                        color: Colors.red, size: 45),
-                    title: Text(
-                      "2001",
-                      style: TextStyle(fontSize: 20),
-                    ),
-                    subtitle: Text('23ème édition'),
-                   onTap: () => Navigator.pushNamed(context, '/historique',arguments: "2001")
-                  ),
-                 ListTile(
-                    leading: Icon(Icons.repeat_on_outlined,
-                        color: Colors.grey, size: 45),
-                    title: Text(
-                      "2002",
-                      style: TextStyle(fontSize: 20),
-                    ),
-                    subtitle: Text('24ème édition'),
-                     onTap: () => Navigator.pushNamed(context, '/historique',arguments: "2002")
-                  ),
-                const  ListTile(
+                      leading: Icon(Icons.repeat_on_outlined,
+                          color: Colors.red, size: 45),
+                      title: Text(
+                        "2001",
+                        style: TextStyle(fontSize: 20),
+                      ),
+                      subtitle: Text('23ème édition'),
+                      onTap: () => Navigator.pushNamed(context, '/historique',
+                          arguments: "2001")),
+                  ListTile(
+                      leading: Icon(Icons.repeat_on_outlined,
+                          color: Colors.grey, size: 45),
+                      title: Text(
+                        "2002",
+                        style: TextStyle(fontSize: 20),
+                      ),
+                      subtitle: Text('24ème édition'),
+                      onTap: () => Navigator.pushNamed(context, '/historique',
+                          arguments: "2002")),
+                  const ListTile(
                     leading: Icon(Icons.repeat_on_outlined,
                         color: Colors.black, size: 45),
                     title: Text(
@@ -77,7 +73,7 @@ class PageAnnee extends StatelessWidget {
                     ),
                     subtitle: Text('Je marche seul'),
                   ),
-                const  ListTile(
+                  const ListTile(
                     leading: Icon(Icons.repeat_on_outlined,
                         color: Colors.grey, size: 45),
                     title: Text(
